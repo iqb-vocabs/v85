@@ -1,0 +1,321 @@
+{
+  "id": "vFDB",
+  "title": [
+    {
+      "lang": "de",
+      "value": "VerbundFDB-CV "
+    },
+    {
+      "lang": "en",
+      "value": "VerbundFDB-CV"
+    }
+  ],
+  "csv_delimiter": ",",
+  "base": "https://w3id.org/iqb/v85",
+  "outDir": "./",
+  "idPattern": "^[abcdefghprqstuvxyz]{1}[2345679]{1}[abcdefghprqstuvxyz]{1}$",
+  "creator": "IQB - Institut zur Qualitätsentwicklung im Bildungswesen",
+  "vocabularies": [
+    {
+      "id": "av",
+      "title": [
+        {
+          "lang": "de",
+          "value": "Auswahlverfahren"
+        },
+        {
+          "lang": "en",
+          "value": "Sampling Procedure"
+        }
+      ],
+      "filenameSource": "av_Auswahlverfahren.csv",
+      "filenameTarget": "av_Auswahlverfahren.ttl",
+      "description": [
+        {
+          "lang": "de",
+          "value": "\"\"DDI Controlled Vocabularies:  SamplingProcedure \n\n Dieses CV besitzt mehrere Werte. \n\n GESIS-DAS Kontrollierte Vokabulare: Auswahlverfahren \n\n Englisch-Deutsche Fassung 28.06.2016 \n\n Dr. Alexander Jedinger GESIS/DDI Vocabulary Group \"\""
+        },
+        {
+          "lang": "en",
+          "value": "\"\"DDI Controlled Vocabularies:  SamplingProcedure \n\n Englisch-Deutsche Fassung 28.06.2016 \n\n Dr. Alexander Jedinger GESIS/DDI Vocabulary Group \"\""
+        }
+      ]
+    },
+    {
+      "id": "df",
+      "title": [
+        {
+          "lang": "de",
+          "value": "Datenformat"
+        },
+        {
+          "lang": "en",
+          "value": "Dataformat"
+        }
+      ],
+      "filenameSource": "df_Datenformat.csv",
+      "filenameTarget": "df_Datenformat.ttl",
+      "description": [
+        {
+          "lang": "de",
+          "value": ""
+        },
+        {
+          "lang": "en",
+          "value": ""
+        }
+      ]
+    },
+
+    {
+      "id": "dt",
+      "title": [
+        {
+          "lang": "de",
+          "value": "Datentyp"
+        },
+        {
+          "lang": "en",
+          "value": "ResourceType"
+        }
+      ],
+      "filenameSource": "dt_Datentyp.csv",
+      "filenameTarget": "dt_Datentyp.ttl",
+      "description": [
+        {
+          "lang": "de",
+          "value": ""
+        },
+        {
+          "lang": "en",
+          "value": ""
+        }
+      ]
+    },
+    {
+      "id": "ed",
+      "title": [
+        {
+          "lang": "de",
+          "value": "Erhebungsdesign"
+        },
+        {
+          "lang": "en",
+          "value": "TimeMethod"
+        }
+      ],
+      "filenameSource": "ed_Erhebungsdesign.csv",
+      "filenameTarget": "ed_Erhebungsdesign.ttl",
+      "description": [
+        {
+          "lang": "de",
+          "value": "Angabe des Erhebungsdesigns"
+        },
+        {
+          "lang": "en",
+          "value": "TimeMethod"
+        }
+      ]
+    },
+    {
+      "id": "ee",
+      "title": [
+        {
+          "lang": "de",
+          "value": "Erhebungseinheit"
+        },
+        {
+          "lang": "en",
+          "value": "Survey Unit"
+        }
+      ],
+      "filenameSource": "ee_Erhebungseinheit_v1.csv",
+      "filenameTarget": "ee_Erhebungseinheit_v1.ttl",
+      "description": [
+        {
+          "lang": "de",
+          "value": "\"\"Kontrolliertes Vokabular des VerbundFDB \n\n Zitation: VerbundFDB: Erhebungseinheit Bildungsforschung. Version 1.0. Retrieved from https://mdr.iqb.hu-berlin.de/#/catalog/94d1ae4f-a441-c728-4a03-adb0eb4604af \n\n aktualisiert aufgrund von Ergänzungen durch weitere Terme: \n\n am 6.7.2020 Betriebe; \n\n am 25.5.2020 Promotionsberechtigte; \n\n am 19.3.2019 Erwachsene, Promovierende, Studienzugangsberechtigte; \n\n am 21.2.2019 Kindergartenkinder inkl. engl. Term Kindergardeners  \n\n  am 7. und 24.8.2020 Terme ins Englische übersetzt \n\n Stand: 21.01.2022\"\""
+        },
+        {
+          "lang": "en",
+          "value": "\"\"Controlled Vocabulary created by VerbundFDB \n\n Citation: \n\n GNERD: Survey Unit Educational Research. Version 1.0. Retrieved from https://mdr.iqb.hu-berlin.de/admin/#/catalog/94d1ae4f-a441-c728-4a03-adb0eb4604af \n\n 2018 \"\""
+        }
+      ]
+    },
+    {
+      "id": "em",
+      "title": [
+        {
+          "lang": "de",
+          "value": "Erhebungsmethode"
+        },
+        {
+          "lang": "en",
+          "value": "Survey Method"
+        }
+      ],
+      "filenameSource": "em_Erhebungsmethode.csv",
+      "filenameTarget": "em_Erhebungsmethode.ttl",
+      "description": [
+        {
+          "lang": "de",
+          "value": "\"\"Kontrolliertes Vokabular VerbundFDB: Erhebungsmethode \n\n Stand: 11.05.2020 \n\n Hierbei handelt es sich um ein kontrolliertes Vokabular zur Erhebungsmethode, die verwendet wurde, um Daten zu bekommen. \"\""
+        },
+        {
+          "lang": "en",
+          "value": "\"\"Controlled Vocabulary: Survey Method \n\n as of: 11.05.2020 \n\n This is a controlled vocabulary of the survey method used to obtain data.\"\""
+        }
+      ]
+    },
+    {
+      "id": "v1",
+      "title": [
+        {
+          "lang": "de",
+          "value": "Erhebungsverfahren v1"
+        },
+        {
+          "lang": "en",
+          "value": "Mode of Collection"
+        }
+      ],
+      "filenameSource": "v1_Erhebungsverfahren_v1.csv",
+      "filenameTarget": "v1_Erhebungsverfahren_v1.ttl",
+      "description": [
+        {
+          "lang": "de",
+          "value": "\"\" Kontrolliertes Vokabular VerbundFDB: Erhebungsverfahren. \n\n Implementierte überarbeitete Version in Anpassung an die Anforderungen des VerbundFDB \n\n  Stand: 13.12.2016 \n\n   Englische Beschreibungen kommen von DDI Controlled Vocabulary for Mode Of Collection \n\n hierbei handelt es sich um ein kontrolliertes Vokabular zur Prozedur, Technik oder Art der Erhebung, die verwendet wurde, um Daten zu bekommen. \"\""
+        },
+        {
+          "lang": "en",
+          "value": "\"\"Controlled Vocabulary GNERD: Mode of Collection \n\n Implemented revised version adapted to the requirements of the GNERD \n\n as of: 13.12.2016\"\""
+        }
+      ]
+    },
+    {
+      "id": "v2",
+      "title": [
+        {
+          "lang": "de",
+          "value": "Erhebungsverfahren v2"
+        },
+        {
+          "lang": "en",
+          "value": "Mode of Collection"
+        }
+      ],
+      "filenameSource": "v2_Erhebungsverfahren_v2.csv",
+      "filenameTarget": "v2_Erhebungsverfahren_v2.ttl",
+      "description": [
+        {
+          "lang": "de",
+          "value": "\"\" Kontrolliertes Vokabular VerbundFDB: Erhebungsverfahren. \n\n Implementierte überarbeitete Version in Anpassung an die Anforderungen des VerbundFDB \n\n  Stand: 11.05.2020 \n\n   Englische Beschreibungen kommen von DDI Controlled Vocabulary for Mode Of Collection \n\n Hierbei handelt es sich um ein kontrolliertes Vokabular zur Prozedur, Technik oder Art der Erhebung, die verwendet wurde, um Daten zu bekommen. \"\""
+        },
+        {
+          "lang": "en",
+          "value": "\"\"Controlled Vocabulary GNERD: Mode of Collection \n\n Implemented revised version adapted to the requirements of the GNERD \n\n as of: 11.05.2020\"\""
+        }
+      ]
+    },
+    {
+      "id": "fd",
+      "title": [
+        {
+          "lang": "de",
+          "value": "Forschungsdesign"
+        },
+        {
+          "lang": "en",
+          "value": "Research Design"
+        }
+      ],
+      "filenameSource": "fd_Forschungsdesign.csv",
+      "filenameTarget": "fd_Forschungsdesign.ttl",
+      "description": [
+        {
+          "lang": "de",
+          "value": "\"\"Kontrolliertes Vokabular VerbundFDB: Forschungsdesign \n\n Implementierte überarbeitete Version in Anpassung an die Anforderungen des VerbundFDB \n\n  Stand: 13.12.2016 \"\""
+        },
+        {
+          "lang": "en",
+          "value": "\"\"Controlled Vocabulary GNERD: Research Design \n\n Implemented revised version adapted to the requirements of the GNERD \n\n as of: 13.12.2016 \"\""
+        }
+      ]
+    },
+    {
+      "id": "fg",
+      "title": [
+        {
+          "lang": "de",
+          "value": "Forschungsgebiet"
+        },
+        {
+          "lang": "en",
+          "value": "Area of Research"
+        }
+      ],
+      "filenameSource": "fg_Forschungsgebiet.csv",
+      "filenameTarget": "fg_Forschungsgebiet.ttl",
+      "description": [
+        {
+          "lang": "de",
+          "value": "\"\"Kontrolliertes Vokabular VerbundFDB: Forschungsgebiet \n\n Quellen für Übersetzung: \n\n https://nces.ed.gov/ipeds/cipcode/browse.aspx?y=55 \n\n https://en.wikipedia.org/wiki/Outline_of_academic_disciplines \"\""
+        },
+        {
+          "lang": "en",
+          "value": "\"\"Controlled Vocabulary GNERD: Area of Research \n\n Sources for Translation: \n\n https://nces.ed.gov/ipeds/cipcode/browse.aspx?y=55 \n\n https://en.wikipedia.org/wiki/Outline_of_academic_disciplines\"\""
+        }
+      ]
+    },
+    {
+      "id": "tb",
+      "title": [
+        {
+          "lang": "de",
+          "value": "Themenbereiche"
+        },
+        {
+          "lang": "en",
+          "value": "Themes"
+        }
+      ],
+      "filenameSource": "tb_Themenbereiche.csv",
+      "filenameTarget": "tb_Themenbereiche.ttl",
+      "description": [
+        {
+          "lang": "de",
+          "value": "Themenbereiche von Forschungsdaten des VerbundFDB"
+        },
+        {
+          "lang": "en",
+          "value": "Themes for research data of the VerbundFDB"
+        }
+      ]
+    },
+    {
+      "id": "zu",
+      "title": [
+        {
+          "lang": "de",
+          "value": "Zugriff"
+        },
+        {
+          "lang": "en",
+          "value": "Access"
+        }
+      ],
+      "filenameSource": "zu_Zugriff.csv",
+      "filenameTarget": "zu_Zugriff.ttl",
+      "description": [
+        {
+          "lang": "de",
+          "value": "Zugangsbedingungen und Zugriffswege in den FDZ des VerbundFDB auf Forschungsdaten"
+        },
+        {
+          "lang": "en",
+          "value": "Access conditions and access routes to research data in the FDZs of the VerbundFDB"
+        }
+      ]
+    }      
+  ]
+}

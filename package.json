@@ -1,0 +1,22 @@
+{
+  "name": "iqb-vocabs_v85",
+  "version": "0.1.0",
+  "description": "FDZ VerbundFDB-CV",
+  "scripts": {
+    "run_id": "addidcsv csv",
+    "run_ttl": "csv2ttl csv"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iqb-vocabs/v85.git"
+  },
+  "author": "IQB",
+  "license": "CC0-1.0",
+  "bugs": {
+    "url": "https://github.com/iqb-vocabs/v85/issues"
+  },
+  "homepage": "https://github.com/iqb-vocabs/v85#readme",
+  "devDependencies": {
+    "@iqb/csv2ttl": "^0.7.7"
+  }
+}
