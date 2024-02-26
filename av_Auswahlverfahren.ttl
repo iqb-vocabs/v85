@@ -8,8 +8,8 @@ n1:1
 	skos:inScheme n0:;
 	skos:notation "1";
 	skos:topConceptOf n0:;
-	skos:prefLabel "Total universe/Complete Enumeration"@de,
-	"Vollerhebung"@en; 
+	skos:prefLabel "Vollerhebung"@de,
+	"Total universe/Complete Enumeration"@en; 
 	skos:definition "Alle  Einheiten (Individuen, Haushalte, Organisationen, usw.) der Grundgesamtheit  sind Teil der Erhebung. Wenn beispielsweise die Grundgesamtheit  als die Mitglieder einer Gewerkschaft definiert  ist, werden  alle Gewerkschaftsmitglieder  eingeladen, an der Studie teilzunehmen. Wenn die gesamte Bevölkerung einer regionalen Einheit (z.B. eines Landes) Teil des Erhebungsverfahrens ist, wird dies als auch 'Zensus' bezeichnet."@de,
 	"All units (ind ividuals, households, organ izations, etc.) of a target  population are included in the data collection. For example, if the target  population  is defined as the members of a trade union, all union members are invited to participate in the study. Also called 'census' if the enti re popu lation of a regional unit (e.g. a country) is selected."@en.
 n1:3
