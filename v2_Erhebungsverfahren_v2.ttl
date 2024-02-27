@@ -415,7 +415,7 @@ n1:34
 	skos:topConceptOf n0:;
 	skos:prefLabel "Transkription"@de,
 	"Transcription"@en; 
-	skos:definition "Erfassen von Informationen in schriftlicher Form aus unterschiedlichen Quellen, odereinemanderenMedium, Alphabet oder Notationsform, wie wissenschaftliche Formeln oder Musiknoten. Für transkribierte Interviews oder Beobachtungen empfiehlt es sich, die primäre Art der Erhebung unter Verwendung der Begriffe aus dem Interview oder der Beobachtung zu dokumentieren."@de,
+	skos:definition "Erfassen von Informationen in schriftlicher Form aus unterschiedlichen Quellen, oder einem anderen Medium, Alphabet oder Notationsform, wie wissenschaftliche Formeln oder Musiknoten. Für transkribierte Interviews oder Beobachtungen empfiehlt es sich, die primäre Art der Erhebung unter Verwendung der Begriffe aus dem Interview oder der Beobachtung zu dokumentieren."@de,
 	"Capturing information in writing from a different source, or from a different medium, alphabet, or form of notation, like scientific formulae, or musical notes. For transcribed interviews or observations, it is recommended to document the primary mode of collection, using one of the interview or observation terms."@en;
 	skos:narrower 
 		n1:34.1,
@@ -471,7 +471,7 @@ n1:28
 	skos:notation "12.1.2";
 	skos:broader n1:26;
 	skos:prefLabel "Computerbasierter Test"@de,
-	"Measurements and tests: Educational measurements and tests: Computer assisted test"@en; 
+	"Computer assisted test"@en; 
 	skos:definition "Beurteilung von Wissen, Fähigkeiten, Eignung oder Bildungsleistung durch fachkundige Messungen oder Tests. via Computerbasiertem Test"@de,
 	"Assessment of knowledge, skills, aptitude, or educational achievement by means of specialized measures or tests. via computer assisted test"@en.
 n1:26
@@ -480,7 +480,7 @@ n1:26
 	skos:notation "12.1";
 	skos:broader n1:25;
 	skos:prefLabel "Leistungs- und Kompetenztests"@de,
-	"Measurements and tests: Educational measurements and tests"@en; 
+	"Educational measurements and tests"@en; 
 	skos:definition "Beurteilung von Wissen, Fähigkeiten, Eignung oder Bildungsleistung durch fachkundige Messungen oder Tests."@de,
 	"Assessment of knowledge, skills, aptitude, or educational achievement by means of specialized measures or tests."@en;
 	skos:narrower 
@@ -492,7 +492,7 @@ n1:29
 	skos:notation "12.2";
 	skos:broader n1:25;
 	skos:prefLabel "Physische Tests"@de,
-	"Measurements and tests: Physical measurements and tests"@en; 
+	"Physical measurements and tests"@en; 
 	skos:definition "Beurteilung der physischen Eigenschaften von Lebewesen, Gegenständen, Materialien oder Naturphänomenen. Zum Beispiel Erkenntnisse aus der praktischen medizinischen Untersuchung (z. B. Abtasten oder Abhören), klinische Messungen und Labortests wie Blutanalyse, Blutdruck, Herzfrequenz, Körpergewicht und Körpergröße sowie allgemeine Messungen wie Zeit, Distanz, Masse, Temperatur, Kraft, Stärke, Geschwindigkeit, GPS-Daten über physische Bewegung und andere physische Parameter oder Variablen, wie Geodaten."@de,
 	"Assessment of physical properties of living beings, objects, materials, or natural phenomena. For example, findings from hands-on medical examination (e.g., palpation or auscultation), clinical measurements and lab tests like blood analysis, blood pressure, heart rate, body weight and height, as well as general measurements like time, distance, mass, temperature, force, power, speed, GPS data on physical movement and other physical parameters or variables, like geospatial data."@en.
 n1:31
@@ -509,7 +509,7 @@ n1:32
 	skos:notation "12.3.2";
 	skos:broader n1:30;
 	skos:prefLabel "Computerbasierter Test"@de,
-	"Measurements and tests: Psychological measurements and tests: Computer assisted test"@en; 
+	"Computer assisted test"@en; 
 	skos:definition "Beurteilung von Persönlichkeitsmerkmalen oder psychologischen Reaktionen/Verhaltensreaktionen durch fachkundige Messungen oder Tests. Zum Beispiel objektive Tests wie Selbstbericht mit eingeschränktem Antwortformat oder projektiven Methoden, die freie Äußerungen erlauben, einschließlich Wortassoziationen, Vollendung des Satzes oder einer Geschichte, Vignetten, Karikaturtests, thematische Auffassungstests, Rollenspiele, Zeichentests, Tintenklecks-tests etc. via Computerbasiertem Test"@de,
 	"Assessment of personality traits or psychological/behavioral responses by means of specialized measures or tests. For example, objective tests like self-report measures with a restricted response format, or projective methods allowing free responses, including word association, sentence or story completion, vignettes, cartoon test, thematic apperception tests, role play, drawing tests, inkblot tests, choice ordering exercises, etc. via computer assisted test"@en.
 n1:30
@@ -518,7 +518,7 @@ n1:30
 	skos:notation "12.3";
 	skos:broader n1:25;
 	skos:prefLabel "Psychologische Tests"@de,
-	"Measurements and tests: Psychological measurements and tests"@en; 
+	"Psychological measurements and tests"@en; 
 	skos:definition "Beurteilung von Persönlichkeitsmerkmalen oder psychologischen Reaktionen/Verhaltensreaktionen durch fachkundige Messungen oder Tests. Zum Beispiel objektive Tests wie Selbstbericht mit eingeschränktem Antwortformat oder projektiven Methoden, die freie Äußerungen erlauben, einschließlich Wortassoziationen, Vollendung des Satzes oder einer Geschichte, Vignetten, Karikaturtests, thematische Auffassungstests, Rollenspiele, Zeichentests, Tintenklecks-tests, etc."@de,
 	"Assessment of personality traits or psychological/behavioral responses by means of specialized measures or tests. For example, objective tests like self-report measures with a restricted response format, or projective methods allowing free responses, including word association, sentence or story completion, vignettes, cartoon test, thematic apperception tests, role play, drawing tests, inkblot tests, choice ordering exercises, etc."@en;
 	skos:narrower 

@@ -39,16 +39,12 @@ n0:
 	"VerbundFDB - Controlled Vocabulary - Resource Type"@en;
 	dct:description """Hierbei handelt es sich um ein kontrolliertes Vokabular zu Informationen zur Studie und beschreibt die Datenart.
 
-Zitation: VerbundFDB: Datentyp Bildungsforschung. Version 1.0. Retrieved from https://mdr.iqb.hu-berlin.de/#/catalog/5c4748e0-bcaa-c3c3-e5af-dd481fddbf0c. 
-
-Provenienz: Es handelt sich hierbei um ein kontrolliertes Vokabular, welches von Thomas Schwager für den VerbundFDB entwickelt wurde.
+Zitation: VerbundFDB: Datentyp Bildungsforschung. Version 1.0. Retrieved from https://mdr.iqb.hu-berlin.de/#/catalog/5c4748e0-bcaa-c3c3-e5af-dd481fddbf0c. Provenienz: Es handelt sich hierbei um ein kontrolliertes Vokabular, welches von Thomas Schwager für den VerbundFDB entwickelt wurde.
 
 Lizenz: CC0 1.0 Universell (CC0 1.0) / Public Domain Dedication (https://creativecommons.org/publicdomain/zero/1.0/deed.de)"""@de,
 	"""This is a controlled vocabulary for information on the study and describes the category of data.
 
-Citation: VerbundFDB: Resource Type Educational Research. Version 1.0. Retrieved from https://mdr.iqb.hu-berlin.de/#/catalog/5c4748e0-bcaa-c3c3-e5af-dd481fddbf0c.
-
- Provenance: This is a controlled vocabulary developed by Thomas Schwager (VerbundFDB).
+Citation: VerbundFDB: Resource Type Educational Research. Version 1.0. Retrieved from https://mdr.iqb.hu-berlin.de/#/catalog/5c4748e0-bcaa-c3c3-e5af-dd481fddbf0c. Provenance: This is a controlled vocabulary developed by Thomas Schwager (VerbundFDB).
 
 License: CC0 1.0 Universell (CC0 1.0) / Public Domain Dedication (https://creativecommons.org/publicdomain/zero/1.0/deed.de)"""@en;
 	skos:hasTopConcept

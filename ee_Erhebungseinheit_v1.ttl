@@ -189,7 +189,9 @@ Stand: 13.05.2022
 
 Lizenz: CC0 1.0 Universell (CC0 1.0) / Public Domain Dedication (https://creativecommons.org/publicdomain/zero/1.0/deed.de)"""@de,
 	"""This is a controlled vocabulary for methodological information on the study and indicates the entity that provided the information carried by the variable.
+
 Citation: VerbundFDB: Survey Unit Educational Research. Version 2.0. Retrieved from https://mdr.iqb.hu-berlin.de/#/catalog/003f2155-64f0-98c9-93c6-687d68090742.
+
 Provenance: This is a controlled vocabulary developed and used by the VerbundFDB metadata working group (Noemi Betancort-Cabrera, Andreas Daniel, Daniel Goebel, Karoline Harzenetter, Ute Hoffstätter, Nadeshda Jung, Reiner Mauer, Claudia Neuendorf, Lisa Pegelow, Maike Porzelt, Alexander Schuster and Dirk Weisbrod).
 
 as of 13.05.2022
