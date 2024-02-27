@@ -17,7 +17,8 @@ n1:2
 	skos:topConceptOf n0:;
 	skos:prefLabel "Datenkollektion"@de,
 	"Collection"@en; 
-	skos:definition "=Sammlung"@de.
+	skos:definition "=Sammlung"@de,
+	"=Collection"@en.
 n1:3
 	 a skos:Concept;
 	skos:inScheme n0:;
@@ -115,8 +116,22 @@ n0:
 	a skos:ConceptScheme;
 	dct:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de,
 	"IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@en;
-	dct:title "VerbundFDB-CV  - Datenformat"@de,
-	"VerbundFDB-CV - Dataformat"@en;
+	dct:title "VerbundFDB - Kontrolliertes Vokabular - Datenformat"@de,
+	"VerbundFDB - Controlled Vocabulary - Data Format"@en;
+	dct:description """Hierbei handelt es sich um ein kontrolliertes Vokabular zu technischen Informationen zum Datensatz und beschreibt die Datenressource.
+
+Zitation: VerbundFDB: Datenformat Bildungsforschung. Version 1.0. Verfügbar unter https://mdr.iqb.hu-berlin.de/#/catalog/7e812b6c-ee57-a075-eb33-596e4e58f8ab.
+
+Provenienz: Es handelt sich hierbei um ein kontrolliertes Vokabular, welches vom VerbundFDB auf Grundlage von da|ra 4.0 (Resource Type) entwickelt wurde.
+
+Lizenz: CC0 1.0 Universell (CC0 1.0) / Public Domain Dedication (https://creativecommons.org/publicdomain/zero/1.0/deed.de)"""@de,
+	"""This is a controlled vocabulary for technical information on the data set and describes the data resource.
+
+Citation: VerbundFDB: Data Format Educational Research. Version 1.0. Retrieved from https://mdr.iqb.hu-berlin.de/#/catalog/7e812b6c-ee57-a075-eb33-596e4e58f8ab.
+
+Provenance: This is a controlled vocabulary developed by VerbundFDB- on basis of da|ra 4.0 (Resource Type).
+
+License: CC0 1.0 Universell (CC0 1.0) / Public Domain Dedication (https://creativecommons.org/publicdomain/zero/1.0/deed.de) """@en;
 	skos:hasTopConcept
 		n1:1,
 		n1:2,

@@ -20,7 +20,7 @@ n1:4
 	skos:prefLabel "PAPI (Papierfragebogen)"@de,
 	"PAPI (Paper and Pencil Interview)"@en; 
 	skos:definition "Papier-und-Bleistift-Befragung. Der Interviewer benutzt einen traditionellen Papierfragebogen, um die Fragen vorzulesen und die Antworten einzugeben."@de,
-	"Paper-and-pencil interviewing (PAPI). The interviewer uses a traditional paper questionnaire to read the questions and enter the answers. "@en.
+	"Paper-and-pencil interviewing (PAPI). The interviewer uses a traditional paper questionnaire to read the questions and enter the answers."@en.
 n1:2
 	 a skos:Concept;
 	skos:inScheme n0:;
@@ -463,7 +463,7 @@ n1:27
 	skos:notation "12.1.1";
 	skos:broader n1:26;
 	skos:prefLabel "Paper and Pencil Test"@de,
-	""@en; 
+	"Paper and Pencil Test"@en; 
 	skos:definition "Beurteilung von Wissen, Fähigkeiten, Eignung oder Bildungsleistung durch fachkundige Messungen oder Tests. via Paper and Pencil Test"@de.
 n1:28
 	 a skos:Concept;
@@ -501,7 +501,7 @@ n1:31
 	skos:notation "12.3.1";
 	skos:broader n1:30;
 	skos:prefLabel "Paper and Pencil Test"@de,
-	""@en; 
+	"Paper and Pencil Test"@en; 
 	skos:definition "Beurteilung von Persönlichkeitsmerkmalen oder psychologischen Reaktionen/Verhaltensreaktionen durch fachkundige Messungen oder Tests. Zum Beispiel objektive Tests wie Selbstbericht mit eingeschränktem Antwortformat oder projektiven Methoden, die freie Äußerungen erlauben, einschließlich Wortassoziationen, Vollendung des Satzes oder einer Geschichte, Vignetten, Karikaturtests, thematische Auffassungstests, Rollenspiele, Zeichentests, Tintenklecks-tests etc.via Paper and Pencil Test"@de.
 n1:32
 	 a skos:Concept;
@@ -704,22 +704,18 @@ n0:
 	a skos:ConceptScheme;
 	dct:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de,
 	"IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@en;
-	dct:title "VerbundFDB-CV  - Erhebungsverfahren v2"@de,
-	"VerbundFDB-CV - Mode of Collection"@en;
-	dct:description """ Kontrolliertes Vokabular VerbundFDB: Erhebungsverfahren. 
+	dct:title "VerbundFDB - Kontrolliertes Vokabular - Erhebungsverfahren v2"@de,
+	"VerbundFDB - Controlled Vocabulary - Mode of Collection v2"@en;
+	dct:description """Hierbei handelt es sich um ein kontrolliertes Vokabular zur Beschreibung der Datenerhebung, zur Beschreibung der Methode, mit der die Untersuchung durchgeführt wurde, also zur Prozedur, Technik oder Art der Erhebung, die verwendet wurde, um Daten zu bekommen.
 
- Implementierte überarbeitete Version in Anpassung an die Anforderungen des VerbundFDB 
+Zitation: VerbundFDB: Erhebungsverfahren Bildungsforschung. Version 2.0. Verfügbar unter https://mdr.iqb.hu-berlin.de/#/catalog/48f296c7-fba6-475c-e53b-3cee66b27453. Provenienz: basierend auf DDI Alliance (2016) DDI Controlled Vocabulary for Mode Of Collection. Verfügbar unter http://www.ddialliance.org/Specification/DDI-CV/ModeOfCollection_3.0.html Deutsche Übersetzung: Baum, Katrin; Post, Marlies and Jedinger, Alexander (2015). GESIS. Kontrolliertes Vokabular VerbundFDB: Erhebungsverfahren Implementierte überarbeitete Version in Anpassung an die Anforderungen des VerbundFDB Beschlossen am 11.05.2020 im Bearbeitergremium VerbundFDB, bestehend aus Marcus Eisentraut, Karoline Harzenetter, Nadeshda Jung, Claudia Neuendorf, Lisa Pegelow, Maike Porzelt, Jessica Trixa, Dirk Weisbrod Stand: 11.05.2020 Quelle: Überarbeitete Version des GESIS-DAS Kontrolliertes Vokabulars V. 2.0: Erhebungsverfahren Übersetzung des DDI Controlled Vocabulary for Mode Of Collection Datum Originalversion Übersetzung/Bearbeitung 16.11.2015 V. 2.0 Katrin Baum, Marlies Post, Dr. Alexander Jedinger 10.06.2015 V. 2.0 Dr. Alexander Jedinger 08.04.2013 V. 1.0 Monika Linne
 
-  Stand: 11.05.2020 
+Lizenz: CC0 1.0 Universell (CC0 1.0) / Public Domain Dedication (https://creativecommons.org/publicdomain/zero/1.0/deed.de)"""@de,
+	"""The procedure, technique, or mode of inquiry used to attain the data. Description of the method of data collection.
 
-   Englische Beschreibungen kommen von DDI Controlled Vocabulary for Mode Of Collection 
+Citation: VerbundFDB: Mode of Collection Educational Research. Version 2.0. Retrieved from https://mdr.iqb.hu-berlin.de/#/catalog/48f296c7-fba6-475c-e53b-3cee66b27453 Provenance: Based on DDI Alliance (2016) DDI Controlled Vocabulary for Mode Of Collection. Retrieved from http://www.ddialliance.org/Specification/DDI-CV/ModeOfCollection_3.0.html German Translation: Baum, Katrin; Post, Marlies and Jedinger, Alexander (2015). GESIS. Controlled Vocabulary VerbundFDB: Mode of Collection Implemented revised version adapted to the requirements of the VerbundFDB Decided on 11.05.2020 in the VerbundFDB committee (Marcus Eisentraut, Karoline Harzenetter, Nadeshda Jung, Claudia Neuendorf, Lisa Pegelow, Maike Porzelt, Jessica Trixa, Dirk Weisbrod) As of: 11.05.2020 Source: Revised version of GESIS DAS Controlled Vocabulary V. 2.0: Collection Mode Translation of the DDI Controlled Vocabulary for Mode Of Collection Date Original Version Translation / Editing 16.11.2015 V. 2.0 Katrin Baum, Marlies Post, Dr. Alexander Jedinger 10.06.2015 V. 2.0 Dr. Alexander Jedinger 08.04.2013 V. 1.0 Monika Linne
 
- Hierbei handelt es sich um ein kontrolliertes Vokabular zur Prozedur, Technik oder Art der Erhebung, die verwendet wurde, um Daten zu bekommen. """@de,
-	"""Controlled Vocabulary GNERD: Mode of Collection 
-
- Implemented revised version adapted to the requirements of the GNERD 
-
- as of: 11.05.2020"""@en;
+License: CC0 1.0 Universell (CC0 1.0) / Public Domain Dedication (https://creativecommons.org/publicdomain/zero/1.0/deed.de)"""@en;
 	skos:hasTopConcept
 		n1:1,
 		n1:9,

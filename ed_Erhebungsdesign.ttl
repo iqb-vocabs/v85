@@ -74,10 +74,22 @@ n0:
 	a skos:ConceptScheme;
 	dct:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de,
 	"IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@en;
-	dct:title "VerbundFDB-CV  - Erhebungsdesign"@de,
-	"VerbundFDB-CV - TimeMethod"@en;
-	dct:description "Angabe des Erhebungsdesigns"@de,
-	"TimeMethod"@en;
+	dct:title "VerbundFDB - Kontrolliertes Vokabular - Erhebungsdesign"@de,
+	"VerbundFDB - Controlled Vocabulary - Time Method"@en;
+	dct:description """Hierbei handelt es sich um ein kontrolliertes Vokabular zur zeitlichen Ausdehnung der Datenerhebung. Dies bildet methodische Informationen zur Studie ab sowie die Möglichkeit, die zeitliche Dimension zu beschreiben. Der VerbundFDB hat dieses kontrollierte Vokabular von DDI übernommen und wendet es für sein Metadatenschema an.
+
+Zitation: VerbundFDB: Erhebungsdesign Bildungsforschung. Version 1.0. Verfügbar unter https://mdr.iqb.hu-berlin.de/#/catalog/56cc4164-6731-7d54-c97f-ad9bd24bf1b7.
+
+Provenienz: basierend auf DDI Alliance (2015): DDI Controlled Vocabulary for Time Method. Verfügbar unter from http://www.ddialliance.org/Specification/DDI-CV/TimeMethod_1.2.html German Translation: Jedinger, Alexander and Eisentraut, Marcus (2016). GESIS. DDI Kontrollierte Vokabulare: Erhebungsdesign 1.3 Englisch-Deutsche Fassung 12.12.2016 Dr. Alexander Jedinger (GESIS /DDI Vocabulary Group), Marcus Eisentraut (VerbundFDB, GESIS)
+
+Lizenz: CC0 1.0 Universell (CC0 1.0) / Public Domain Dedication (https://creativecommons.org/publicdomain/zero/1.0/deed.de) """@de,
+	"""This is a controlled vocabulary for methodological information on the study and describes the time dimension of the data collection.
+
+Citation: VerbundFDB: Time Method Educational Research. Version 1.0. Retrieved from https://mdr.iqb.hu-berlin.de/#/catalog/56cc4164-6731-7d54-c97f-ad9bd24bf1b7 
+
+Provenance: Based on DDI Alliance (2015): DDI Controlled Vocabulary for Time Method. Retrieved from http://www.ddialliance.org/Specification/DDI-CV/TimeMethod_1.2.html German Translation: Jedinger, Alexander and Eisentraut, Marcus (2016). GESIS. DDI Controlled Vocabularies: Time Method 1.3 Englisch-Deutsche Fassung 12.12.2016 Dr. Alexander Jedinger (GESIS /DDI Vocabulary Group), Marcus Eisentraut (VerbundFDB, GESIS)
+
+License: CC0 1.0 Universell (CC0 1.0) / Public Domain Dedication (https://creativecommons.org/publicdomain/zero/1.0/deed.de) """@en;
 	skos:hasTopConcept
 		n1:1,
 		n1:5,

@@ -1,7 +1,7 @@
 {
   "name": "iqb-vocabs_v85",
-  "version": "0.1.0",
-  "description": "FDZ VerbundFDB-CV",
+  "version": "0.2.0",
+  "description": "FDZ VerbundFDB ",
   "scripts": {
     "run_id": "addidcsv csv",
     "run_ttl": "csv2ttl csv"

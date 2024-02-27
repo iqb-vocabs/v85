@@ -9,100 +9,107 @@ n1:1
 	skos:notation "";
 	skos:topConceptOf n0:;
 	skos:prefLabel "Interview: Rezeptives Interview"@de,
-	""@en.
+	"Interview: Receptive interview"@en.
 n1:2
 	 a skos:Concept;
 	skos:inScheme n0:;
 	skos:notation "";
 	skos:topConceptOf n0:;
 	skos:prefLabel "Interview: Problemzentriertes Interview"@de,
-	""@en.
+	"Interview: Problem-centred interview"@en.
 n1:3
 	 a skos:Concept;
 	skos:inScheme n0:;
 	skos:notation "";
 	skos:topConceptOf n0:;
 	skos:prefLabel "Interview: Leitfadeninterview"@de,
-	""@en.
+	"Interview: Guide interview"@en.
 n1:4
 	 a skos:Concept;
 	skos:inScheme n0:;
 	skos:notation "";
 	skos:topConceptOf n0:;
 	skos:prefLabel "Interview: Narratives Interview"@de,
-	""@en.
+	"Interview: Narrative interview"@en.
 n1:5
 	 a skos:Concept;
 	skos:inScheme n0:;
 	skos:notation "";
 	skos:topConceptOf n0:;
 	skos:prefLabel "Interview: Tiefeninterview"@de,
-	""@en.
+	"Interview: In-depth interview"@en.
 n1:6
 	 a skos:Concept;
 	skos:inScheme n0:;
 	skos:notation "";
 	skos:topConceptOf n0:;
 	skos:prefLabel "Interview: Episodisches Interview"@de,
-	""@en.
+	"Interview: Episodic interview"@en.
 n1:7
 	 a skos:Concept;
 	skos:inScheme n0:;
 	skos:notation "";
 	skos:topConceptOf n0:;
 	skos:prefLabel "Interview: Halbstandardisiertes Interview"@de,
-	""@en.
+	"Interview: Semi-standardised interview"@en.
 n1:8
 	 a skos:Concept;
 	skos:inScheme n0:;
 	skos:notation "";
 	skos:topConceptOf n0:;
 	skos:prefLabel "Interview: Erzählgenerierendes Interview"@de,
-	""@en.
+	"Interview: Story-telling interview"@en.
 n1:9
 	 a skos:Concept;
 	skos:inScheme n0:;
 	skos:notation "";
 	skos:topConceptOf n0:;
 	skos:prefLabel "Interview: Ethnografisches Interview"@de,
-	""@en.
+	"Interview: Ethnographic interview"@en.
 n1:10
 	 a skos:Concept;
 	skos:inScheme n0:;
 	skos:notation "";
 	skos:topConceptOf n0:;
 	skos:prefLabel "Interview: Fokussiertes Interview"@de,
-	""@en.
-n1:12
-	 a skos:Concept;
-	skos:inScheme n0:;
-	skos:notation "";
-	skos:topConceptOf n0:;
-	skos:prefLabel "Interview: Experteninterview"@de,
-	""@en.
+	"Interview: Focused interview"@en.
 n1:11
 	 a skos:Concept;
 	skos:inScheme n0:;
 	skos:notation "";
 	skos:topConceptOf n0:;
 	skos:prefLabel "Interview: Ero-episches Gespräch"@de,
-	""@en.
+	"Interview: Ero-epic conversation"@en.
+n1:12
+	 a skos:Concept;
+	skos:inScheme n0:;
+	skos:notation "";
+	skos:topConceptOf n0:;
+	skos:prefLabel "Interview: Experteninterview"@de,
+	"Interview: Expert interview"@en.
 n0:
 	a skos:ConceptScheme;
 	dct:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de,
 	"IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@en;
-	dct:title "VerbundFDB-CV  - Erhebungsmethode"@de,
-	"VerbundFDB-CV - Survey Method"@en;
-	dct:description """Kontrolliertes Vokabular VerbundFDB: Erhebungsmethode 
+	dct:title "VerbundFDB - Kontrolliertes Vokabular - Erhebungsmethode"@de,
+	"VerbundFDB - Controlled Vocabulary - Survey Method"@en;
+	dct:description """Hierbei handelt es sich um ein kontrolliertes Vokabular zu methodischen Informationen zur Studie und bildet die Einheit, die die enthaltenen Informationen bereitgestellt hat, ab.
 
- Stand: 11.05.2020 
+Zitation: VerbundFDB: Erhebungseinheit Bildungsforschung. Version 2.0. Verfügbar unter https://mdr.iqb.hu-berlin.de/#/catalog/003f2155-64f0-98c9-93c6-687d68090742.
 
- Hierbei handelt es sich um ein kontrolliertes Vokabular zur Erhebungsmethode, die verwendet wurde, um Daten zu bekommen. """@de,
-	"""Controlled Vocabulary: Survey Method 
+Provenienz: Es handelt sich hierbei um ein kontrolliertes Vokabular, welches von der VerbundFDB-Arbeitsgruppe Metadaten unter Beteiligung von Noemi Betancort-Cabrera, Andreas Daniel, Daniel Goebel, Karoline Harzenetter, Ute Hoffstätter, Nadeshda Jung, Reiner Mauer, Claudia Neuendorf, Lisa Pegelow, Maike Porzelt, Alexander Schuster und Dirk Weisbrod entwickelt wurde.
 
- as of: 11.05.2020 
+Stand: 13.05.2022
 
- This is a controlled vocabulary of the survey method used to obtain data."""@en;
+Lizenz: CC0 1.0 Universell (CC0 1.0) / Public Domain Dedication (https://creativecommons.org/publicdomain/zero/1.0/deed.de)
+"""@de,
+	"""This is a controlled vocabulary of the survey method used to obtain data.
+
+Citation: VerbundFDB: Survey Method Educational Research. Version 1.0. Retrieved from https://mdr.iqb.hu-berlin.de/#/catalog/dfa9cfa4-b86f-42d0-d370-684694e5bc80. Provenance: Controlled Vocabulary VerbundFDB: Survey Method Implemented revised version adapted to the requirements of the VerbundFDB. Decided on 11.05.2020 in the VerbundFDB committee (Marcus Eisentraut, Karoline Harzenetter, Nadeshda Jung, Claudia Neuendorf, Lisa Pegelow, Maike Porzelt, Jessica Trixa, Dirk Weisbrod)
+
+as of: 11.05.2020
+
+License: CC0 1.0 Universell (CC0 1.0) / Public Domain Dedication (https://creativecommons.org/publicdomain/zero/1.0/deed.de)"""@en;
 	skos:hasTopConcept
 		n1:1,
 		n1:2,
@@ -114,5 +121,5 @@ n0:
 		n1:8,
 		n1:9,
 		n1:10,
-		n1:12,
-		n1:11.
+		n1:11,
+		n1:12.

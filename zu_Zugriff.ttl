@@ -61,10 +61,18 @@ n0:
 	a skos:ConceptScheme;
 	dct:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de,
 	"IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@en;
-	dct:title "VerbundFDB-CV  - Zugriff"@de,
-	"VerbundFDB-CV - Access"@en;
-	dct:description "Zugangsbedingungen und Zugriffswege in den FDZ des VerbundFDB auf Forschungsdaten"@de,
-	"Access conditions and access routes to research data in the FDZs of the VerbundFDB"@en;
+	dct:title "VerbundFDB - Kontrolliertes Vokabular - Zugriff"@de,
+	"VerbundFDB - Controlled Vocabulary - Access"@en;
+	dct:description """Hierbei handelt es sich um ein kontrolliertes Vokabular zu den Möglichkeiten und Bedingungen des Datenzugangs, es bildet die Zugangsbedingungen und Zugriffswege in den FDZ des VerbundFDB auf Forschungsdaten ab.
+
+Zitation: VerbundFDB: Zugriff Bildungsforschung. Version 1.0. Verfügbar unter 
+
+Lizenz: CC0 1.0 Universell (CC0 1.0) / Public Domain Dedication (https://creativecommons.org/publicdomain/zero/1.0/deed.de)"""@de,
+	"""This controlled vocabulary maps the access conditions and access paths to research data in the FDZ of the VerbundFDB.
+
+Citation: VerbundFDB: Access Educational Research. Version 1.0. Retrieved from
+
+License: CC0 1.0 Universell (CC0 1.0) / Public Domain Dedication (https://creativecommons.org/publicdomain/zero/1.0/deed.de)"""@en;
 	skos:hasTopConcept
 		n1:1,
 		n1:2,

@@ -3,55 +3,6 @@
 @prefix n0: <https://w3id.org/iqb/v85/tb/>. 
 @prefix n1: <https://w3id.org/iqb/v85/tb/>. 
 
-n1:1
-	 a skos:Concept;
-	skos:inScheme n0:;
-	skos:notation "";
-	skos:topConceptOf n0:;
-	skos:prefLabel "Lehren und Lernen"@de,
-	"Teaching and Learning"@en.
-n1:2
-	 a skos:Concept;
-	skos:inScheme n0:;
-	skos:notation "";
-	skos:topConceptOf n0:;
-	skos:prefLabel "Lebenschancen"@de,
-	"Opportunities in Life"@en.
-n1:3
-	 a skos:Concept;
-	skos:inScheme n0:;
-	skos:notation "";
-	skos:topConceptOf n0:;
-	skos:prefLabel "Werte"@de,
-	" Values"@en.
-n1:4
-	 a skos:Concept;
-	skos:inScheme n0:;
-	skos:notation "";
-	skos:topConceptOf n0:;
-	skos:prefLabel "Lebenswelt/Lebensbedingungen"@de,
-	"Living Environment/Living Conditions"@en.
-n1:5
-	 a skos:Concept;
-	skos:inScheme n0:;
-	skos:notation "";
-	skos:topConceptOf n0:;
-	skos:prefLabel "Migration"@de,
-	"Migration"@en.
-n1:6
-	 a skos:Concept;
-	skos:inScheme n0:;
-	skos:notation "";
-	skos:topConceptOf n0:;
-	skos:prefLabel "Digitalisierung"@de,
-	"Digitisation"@en.
-n1:7
-	 a skos:Concept;
-	skos:inScheme n0:;
-	skos:notation "";
-	skos:topConceptOf n0:;
-	skos:prefLabel "Gleichstellung"@de,
-	"Equality"@en.
 n1:8
 	 a skos:Concept;
 	skos:inScheme n0:;
@@ -67,20 +18,6 @@ n1:9
 	skos:topConceptOf n0:;
 	skos:prefLabel "Bestandsdaten/Institutioneller Hintergrund"@de,
 	"Inventory Data/Institutional Background"@en.
-n1:10
-	 a skos:Concept;
-	skos:inScheme n0:;
-	skos:notation "";
-	skos:topConceptOf n0:;
-	skos:prefLabel "Evaluation/Qualitätsentwicklung"@de,
-	"Evaluation/Quality Development"@en.
-n1:11
-	 a skos:Concept;
-	skos:inScheme n0:;
-	skos:notation "";
-	skos:topConceptOf n0:;
-	skos:prefLabel "Qualifikation"@de,
-	"Qualification"@en.
 n1:12
 	 a skos:Concept;
 	skos:inScheme n0:;
@@ -88,6 +25,27 @@ n1:12
 	skos:topConceptOf n0:;
 	skos:prefLabel "Demographie individuell"@de,
 	"Demography individual"@en.
+n1:6
+	 a skos:Concept;
+	skos:inScheme n0:;
+	skos:notation "";
+	skos:topConceptOf n0:;
+	skos:prefLabel "Digitalisierung"@de,
+	"Digitisation"@en.
+n1:10
+	 a skos:Concept;
+	skos:inScheme n0:;
+	skos:notation "";
+	skos:topConceptOf n0:;
+	skos:prefLabel "Evaluation/Qualitätsentwicklung"@de,
+	"Evaluation/Quality Development"@en.
+n1:7
+	 a skos:Concept;
+	skos:inScheme n0:;
+	skos:notation "";
+	skos:topConceptOf n0:;
+	skos:prefLabel "Gleichstellung"@de,
+	"Equality"@en.
 n1:13
 	 a skos:Concept;
 	skos:inScheme n0:;
@@ -95,13 +53,41 @@ n1:13
 	skos:topConceptOf n0:;
 	skos:prefLabel "Kognitive Fähigkeiten/Kompetenzen"@de,
 	"Cognitive Ability/Achievement"@en.
-n1:14
+n1:2
 	 a skos:Concept;
 	skos:inScheme n0:;
 	skos:notation "";
 	skos:topConceptOf n0:;
-	skos:prefLabel "Testverhalten"@de,
-	"Test Behaviour"@en.
+	skos:prefLabel "Lebenschancen"@de,
+	"Opportunities in Life"@en.
+n1:4
+	 a skos:Concept;
+	skos:inScheme n0:;
+	skos:notation "";
+	skos:topConceptOf n0:;
+	skos:prefLabel "Lebenswelt/Lebensbedingungen"@de,
+	"Living Environment/Living Conditions"@en.
+n1:1
+	 a skos:Concept;
+	skos:inScheme n0:;
+	skos:notation "";
+	skos:topConceptOf n0:;
+	skos:prefLabel "Lehren und Lernen"@de,
+	"Teaching and Learning"@en.
+n1:5
+	 a skos:Concept;
+	skos:inScheme n0:;
+	skos:notation "";
+	skos:topConceptOf n0:;
+	skos:prefLabel "Migration"@de,
+	"Migration"@en.
+n1:11
+	 a skos:Concept;
+	skos:inScheme n0:;
+	skos:notation "";
+	skos:topConceptOf n0:;
+	skos:prefLabel "Qualifikation"@de,
+	"Qualification"@en.
 n1:15
 	 a skos:Concept;
 	skos:inScheme n0:;
@@ -109,27 +95,49 @@ n1:15
 	skos:topConceptOf n0:;
 	skos:prefLabel "Testverfahren"@de,
 	"Testing"@en.
+n1:14
+	 a skos:Concept;
+	skos:inScheme n0:;
+	skos:notation "";
+	skos:topConceptOf n0:;
+	skos:prefLabel "Testverhalten"@de,
+	"Test Behaviour"@en.
+n1:3
+	 a skos:Concept;
+	skos:inScheme n0:;
+	skos:notation "";
+	skos:topConceptOf n0:;
+	skos:prefLabel "Werte"@de,
+	" Values"@en.
 n0:
 	a skos:ConceptScheme;
 	dct:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de,
 	"IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@en;
-	dct:title "VerbundFDB-CV  - Themenbereiche"@de,
-	"VerbundFDB-CV - Themes"@en;
-	dct:description "Themenbereiche von Forschungsdaten des VerbundFDB"@de,
-	"Themes for research data of the VerbundFDB"@en;
+	dct:title "VerbundFDB - Kontrolliertes Vokabular - Themenbereiche"@de,
+	"VerbundFDB - Controlled Vocabulary - Themes"@en;
+	dct:description """Hierbei handelt es sich um ein kontrolliertes Vokabular zu Themenbereichen von Forschungsdaten des VerbundFDB.
+
+Zitation: VerbundFDB: Themenbereiche Bildungsforschung. Version 1.0. Verfügbar unter
+
+Lizenz: CC0 1.0 Universell (CC0 1.0) / Public Domain Dedication (https://creativecommons.org/publicdomain/zero/1.0/deed.de)"""@de,
+	"""This is a controlled vocabulary for themes for research data of the VerbundFDB.
+
+Citation: VerbundFDB: Themes Educational Research. Version 1.0. Retrieved from
+
+License: CC0 1.0 Universell (CC0 1.0) / Public Domain Dedication (https://creativecommons.org/publicdomain/zero/1.0/deed.de)"""@en;
 	skos:hasTopConcept
-		n1:1,
-		n1:2,
-		n1:3,
-		n1:4,
-		n1:5,
-		n1:6,
-		n1:7,
 		n1:8,
 		n1:9,
-		n1:10,
-		n1:11,
 		n1:12,
+		n1:6,
+		n1:10,
+		n1:7,
 		n1:13,
+		n1:2,
+		n1:4,
+		n1:1,
+		n1:5,
+		n1:11,
+		n1:15,
 		n1:14,
-		n1:15.
+		n1:3.

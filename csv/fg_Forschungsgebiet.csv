@@ -1,21 +1,21 @@
-"notation","title","description","id","title_en","description_en"
-"","Sprach- / Literaturwissenschaft","","e2u","Languages and literature",""
-"","Biologie","","a6f","Biology",""
-"","Chemie","","f4b","Chemistry",""
-"","Ethnologie","","c4a","Cultural studies / ethnology",""
-"","Fachdidaktik","","s2d","Pedagogical content knowledge (PCK)",""
-"","Geowissenschaften","","r4u","Geosciences / earth sciences",""
-"","Geschichte","","t5g","History",""
-"","Computer Science","","r7u","Informatik",""
-"","Kunst","","r5z","Applied Arts",""
-"","Mathematik","","g9s","Mathematics",""
-"","Medizin","","c2c","Medicine",""
-"","Pädagogik","","b4f","Education",""
-"","Musik","","d4x","Music",""
-"","Physik","","s4e","Physics",""
-"","Politikwissenschaft","","t6q","Political Science",""
-"","Psychologie","","p9s","Psychology",""
-"","Soziologie","","p3x","Sociology",""
-"","Sport","","y2z","Physical Education / Sports",""
-"","Wirtschaftswissenschaften","","x9x","Business and Economics",""
-"","Sonstige (Freitext)","","z9a","Other",""
+notation,title,description,id,title_en,description_en
+,Biologie,,a6f,Biology,
+,Chemie,,f4b,Chemistry,
+,Computer Science,,r7u,Informatik,
+,Ethnologie,,c4a,Cultural studies / ethnology,
+,Fachdidaktik,,s2d,Pedagogical content knowledge (PCK),
+,Geowissenschaften,,r4u,Geosciences / earth sciences,
+,Geschichte,,t5g,History,
+,Kunst,,r5z,Applied Arts,
+,Mathematik,,g9s,Mathematics,
+,Medizin,,c2c,Medicine,
+,Musik,,d4x,Music,
+,Pädagogik,,b4f,Education,
+,Physik,,s4e,Physics,
+,Politikwissenschaft,,t6q,Political Science,
+,Psychologie,,p9s,Psychology,
+,Soziologie,,p3x,Sociology,
+,Sport,,y2z,Physical Education / Sports,
+,Sprach- / Literaturwissenschaft,,e2u,Languages and literature,
+,Wirtschaftswissenschaften,,x9x,Business and Economics,
+,Sonstige (Freitext),,z9a,Other,

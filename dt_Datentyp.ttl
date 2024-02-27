@@ -16,7 +16,7 @@ n1:2
 	skos:notation "";
 	skos:topConceptOf n0:;
 	skos:prefLabel "Qualitatives, nicht oder gering standardisiertes Datenmaterial"@de,
-	""@en.
+	"Qualitative, non-standardized or poorly standardized data material"@en.
 n1:3
 	 a skos:Concept;
 	skos:inScheme n0:;
@@ -35,8 +35,22 @@ n0:
 	a skos:ConceptScheme;
 	dct:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de,
 	"IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@en;
-	dct:title "VerbundFDB-CV  - Datentyp"@de,
-	"VerbundFDB-CV - ResourceType"@en;
+	dct:title "VerbundFDB - Kontrolliertes Vokabular - Datentyp"@de,
+	"VerbundFDB - Controlled Vocabulary - Resource Type"@en;
+	dct:description """Hierbei handelt es sich um ein kontrolliertes Vokabular zu Informationen zur Studie und beschreibt die Datenart.
+
+Zitation: VerbundFDB: Datentyp Bildungsforschung. Version 1.0. Retrieved from https://mdr.iqb.hu-berlin.de/#/catalog/5c4748e0-bcaa-c3c3-e5af-dd481fddbf0c. 
+
+Provenienz: Es handelt sich hierbei um ein kontrolliertes Vokabular, welches von Thomas Schwager für den VerbundFDB entwickelt wurde.
+
+Lizenz: CC0 1.0 Universell (CC0 1.0) / Public Domain Dedication (https://creativecommons.org/publicdomain/zero/1.0/deed.de)"""@de,
+	"""This is a controlled vocabulary for information on the study and describes the category of data.
+
+Citation: VerbundFDB: Resource Type Educational Research. Version 1.0. Retrieved from https://mdr.iqb.hu-berlin.de/#/catalog/5c4748e0-bcaa-c3c3-e5af-dd481fddbf0c.
+
+ Provenance: This is a controlled vocabulary developed by Thomas Schwager (VerbundFDB).
+
+License: CC0 1.0 Universell (CC0 1.0) / Public Domain Dedication (https://creativecommons.org/publicdomain/zero/1.0/deed.de)"""@en;
 	skos:hasTopConcept
 		n1:1,
 		n1:2,

@@ -3,11 +3,11 @@
   "title": [
     {
       "lang": "de",
-      "value": "VerbundFDB-CV "
+      "value": "VerbundFDB - Kontrolliertes Vokabular"
     },
     {
       "lang": "en",
-      "value": "VerbundFDB-CV"
+      "value": "VerbundFDB - Controlled Vocabulary"
     }
   ],
   "csv_delimiter": ",",
@@ -33,11 +33,11 @@
       "description": [
         {
           "lang": "de",
-          "value": "\"\"DDI Controlled Vocabularies:  SamplingProcedure \n\n Dieses CV besitzt mehrere Werte. \n\n GESIS-DAS Kontrollierte Vokabulare: Auswahlverfahren \n\n Englisch-Deutsche Fassung 28.06.2016 \n\n Dr. Alexander Jedinger GESIS/DDI Vocabulary Group \"\""
+          "value": "\"\"Hierbei handelt es sich um ein kontrolliertes Vokabular zur Beschreibung des Auswahlverfahrens für die Stichprobe, welches der VerbundFDB von DDI übernommen hat und für sein Metadatenschema an-/verwendet.\n\nZitation: VerbundFDB: Auswahlverfahren Bildungsforschung. Version 1.0. Verfügbar unter https://mdr.iqb.hu-berlin.de/#/catalog/1d791cc7-6d8d-dd35-b1ef-0eec9c31bbb5.\n\nProvenienz: basierend auf DDI Alliance (2016): DDI Controlled Vocabulary for Sampling Procedure. Verfügbar unter http://www.ddialliance.org/Specification/DDI-CV/SamplingProcedure_1.1.html German Translation: Alexander Jedinger (2016). GESIS. GESIS-DAS Kontrollierte Vokabular: Auswahlverfahren / DDI Controlled Vocabularies: SamplingProcedure Englisch-Deutsche Fassung 28.6.16 Dr. Alexander Jedinger GESIS/DDI Vocabulary Group\n\nLizenz: CC0 1.0 Universell (CC0 1.0) / Public Domain Dedication (https://creativecommons.org/publicdomain/zero/1.0/deed.de)\"\""
         },
         {
           "lang": "en",
-          "value": "\"\"DDI Controlled Vocabularies:  SamplingProcedure \n\n Englisch-Deutsche Fassung 28.06.2016 \n\n Dr. Alexander Jedinger GESIS/DDI Vocabulary Group \"\""
+          "value": "\"\"A typology of sampling methods.\n\nCitation: VerbundFDB: Sampling Procedure Educational Research. Version 1.0. Retrieved from https://mdr.iqb.hu-berlin.de/#/catalog/1d791cc7-6d8d-dd35-b1ef-0eec9c31bbb5 Provenance: Based on DDI Alliance (2016): DDI Controlled Vocabulary for Sampling Procedure. Retrieved from http://www.ddialliance.org/Specification/DDI-CV/SamplingProcedure_1.1.html German Translation: Alexander Jedinger (2016). GESIS. GESIS-DAS Kontrollierte Vokabular: Auswahlverfahren / DDI Controlled Vocabularies: SamplingProcedure Englisch-Deutsche Fassung 28.6.16 Dr. Alexander Jedinger GESIS/DDI Vocabulary Group\n\nLicense: CC0 1.0 Universell (CC0 1.0) / Public Domain Dedication (https://creativecommons.org/publicdomain/zero/1.0/deed.de)\"\""
         }
       ]
     },
@@ -50,7 +50,7 @@
         },
         {
           "lang": "en",
-          "value": "Dataformat"
+          "value": "Data Format"
         }
       ],
       "filenameSource": "df_Datenformat.csv",
@@ -58,11 +58,11 @@
       "description": [
         {
           "lang": "de",
-          "value": ""
+          "value": "\"\"Hierbei handelt es sich um ein kontrolliertes Vokabular zu technischen Informationen zum Datensatz und beschreibt die Datenressource.\n\nZitation: VerbundFDB: Datenformat Bildungsforschung. Version 1.0. Verfügbar unter https://mdr.iqb.hu-berlin.de/#/catalog/7e812b6c-ee57-a075-eb33-596e4e58f8ab.\n\nProvenienz: Es handelt sich hierbei um ein kontrolliertes Vokabular, welches vom VerbundFDB auf Grundlage von da|ra 4.0 (Resource Type) entwickelt wurde.\n\nLizenz: CC0 1.0 Universell (CC0 1.0) / Public Domain Dedication (https://creativecommons.org/publicdomain/zero/1.0/deed.de)\"\""
         },
         {
           "lang": "en",
-          "value": ""
+          "value": "\"\"This is a controlled vocabulary for technical information on the data set and describes the data resource.\n\nCitation: VerbundFDB: Data Format Educational Research. Version 1.0. Retrieved from https://mdr.iqb.hu-berlin.de/#/catalog/7e812b6c-ee57-a075-eb33-596e4e58f8ab.\n\nProvenance: This is a controlled vocabulary developed by VerbundFDB- on basis of da|ra 4.0 (Resource Type).\n\nLicense: CC0 1.0 Universell (CC0 1.0) / Public Domain Dedication (https://creativecommons.org/publicdomain/zero/1.0/deed.de) \"\""
         }
       ]
     },
@@ -76,7 +76,7 @@
         },
         {
           "lang": "en",
-          "value": "ResourceType"
+          "value": "Resource Type"
         }
       ],
       "filenameSource": "dt_Datentyp.csv",
@@ -84,11 +84,11 @@
       "description": [
         {
           "lang": "de",
-          "value": ""
+          "value": "\"\"Hierbei handelt es sich um ein kontrolliertes Vokabular zu Informationen zur Studie und beschreibt die Datenart.\n\nZitation: VerbundFDB: Datentyp Bildungsforschung. Version 1.0. Retrieved from https://mdr.iqb.hu-berlin.de/#/catalog/5c4748e0-bcaa-c3c3-e5af-dd481fddbf0c. \n\nProvenienz: Es handelt sich hierbei um ein kontrolliertes Vokabular, welches von Thomas Schwager für den VerbundFDB entwickelt wurde.\n\nLizenz: CC0 1.0 Universell (CC0 1.0) / Public Domain Dedication (https://creativecommons.org/publicdomain/zero/1.0/deed.de)\"\""
         },
         {
           "lang": "en",
-          "value": ""
+          "value": "\"\"This is a controlled vocabulary for information on the study and describes the category of data.\n\nCitation: VerbundFDB: Resource Type Educational Research. Version 1.0. Retrieved from https://mdr.iqb.hu-berlin.de/#/catalog/5c4748e0-bcaa-c3c3-e5af-dd481fddbf0c.\n\n Provenance: This is a controlled vocabulary developed by Thomas Schwager (VerbundFDB).\n\nLicense: CC0 1.0 Universell (CC0 1.0) / Public Domain Dedication (https://creativecommons.org/publicdomain/zero/1.0/deed.de)\"\""
         }
       ]
     },
@@ -101,7 +101,7 @@
         },
         {
           "lang": "en",
-          "value": "TimeMethod"
+          "value": "Time Method"
         }
       ],
       "filenameSource": "ed_Erhebungsdesign.csv",
@@ -109,11 +109,11 @@
       "description": [
         {
           "lang": "de",
-          "value": "Angabe des Erhebungsdesigns"
+          "value": "\"\"Hierbei handelt es sich um ein kontrolliertes Vokabular zur zeitlichen Ausdehnung der Datenerhebung. Dies bildet methodische Informationen zur Studie ab sowie die Möglichkeit, die zeitliche Dimension zu beschreiben. Der VerbundFDB hat dieses kontrollierte Vokabular von DDI übernommen und wendet es für sein Metadatenschema an.\n\nZitation: VerbundFDB: Erhebungsdesign Bildungsforschung. Version 1.0. Verfügbar unter https://mdr.iqb.hu-berlin.de/#/catalog/56cc4164-6731-7d54-c97f-ad9bd24bf1b7.\n\nProvenienz: basierend auf DDI Alliance (2015): DDI Controlled Vocabulary for Time Method. Verfügbar unter from http://www.ddialliance.org/Specification/DDI-CV/TimeMethod_1.2.html German Translation: Jedinger, Alexander and Eisentraut, Marcus (2016). GESIS. DDI Kontrollierte Vokabulare: Erhebungsdesign 1.3 Englisch-Deutsche Fassung 12.12.2016 Dr. Alexander Jedinger (GESIS /DDI Vocabulary Group), Marcus Eisentraut (VerbundFDB, GESIS)\n\nLizenz: CC0 1.0 Universell (CC0 1.0) / Public Domain Dedication (https://creativecommons.org/publicdomain/zero/1.0/deed.de) \"\""
         },
         {
           "lang": "en",
-          "value": "TimeMethod"
+          "value": "\"\"This is a controlled vocabulary for methodological information on the study and describes the time dimension of the data collection.\n\nCitation: VerbundFDB: Time Method Educational Research. Version 1.0. Retrieved from https://mdr.iqb.hu-berlin.de/#/catalog/56cc4164-6731-7d54-c97f-ad9bd24bf1b7 \n\nProvenance: Based on DDI Alliance (2015): DDI Controlled Vocabulary for Time Method. Retrieved from http://www.ddialliance.org/Specification/DDI-CV/TimeMethod_1.2.html German Translation: Jedinger, Alexander and Eisentraut, Marcus (2016). GESIS. DDI Controlled Vocabularies: Time Method 1.3 Englisch-Deutsche Fassung 12.12.2016 Dr. Alexander Jedinger (GESIS /DDI Vocabulary Group), Marcus Eisentraut (VerbundFDB, GESIS)\n\nLicense: CC0 1.0 Universell (CC0 1.0) / Public Domain Dedication (https://creativecommons.org/publicdomain/zero/1.0/deed.de) \"\""
         }
       ]
     },
@@ -134,11 +134,11 @@
       "description": [
         {
           "lang": "de",
-          "value": "\"\"Kontrolliertes Vokabular des VerbundFDB \n\n Zitation: VerbundFDB: Erhebungseinheit Bildungsforschung. Version 1.0. Retrieved from https://mdr.iqb.hu-berlin.de/#/catalog/94d1ae4f-a441-c728-4a03-adb0eb4604af \n\n aktualisiert aufgrund von Ergänzungen durch weitere Terme: \n\n am 6.7.2020 Betriebe; \n\n am 25.5.2020 Promotionsberechtigte; \n\n am 19.3.2019 Erwachsene, Promovierende, Studienzugangsberechtigte; \n\n am 21.2.2019 Kindergartenkinder inkl. engl. Term Kindergardeners  \n\n  am 7. und 24.8.2020 Terme ins Englische übersetzt \n\n Stand: 21.01.2022\"\""
+          "value": "\"\"Hierbei handelt es sich um ein kontrolliertes Vokabular zu methodischen Informationen zur Studie und bildet die Einheit, die die enthaltenen Informationen bereitgestellt hat, ab.\n\nZitation: VerbundFDB: Erhebungseinheit Bildungsforschung. Version 2.0. Verfügbar unter https://mdr.iqb.hu-berlin.de/#/catalog/003f2155-64f0-98c9-93c6-687d68090742.\n\nProvenienz: Es handelt sich hierbei um ein kontrolliertes Vokabular, welches von der VerbundFDB-Arbeitsgruppe Metadaten unter Beteiligung von Noemi Betancort-Cabrera, Andreas Daniel, Daniel Goebel, Karoline Harzenetter, Ute Hoffstätter, Nadeshda Jung, Reiner Mauer, Claudia Neuendorf, Lisa Pegelow, Maike Porzelt, Alexander Schuster und Dirk Weisbrod entwickelt wurde.\n\nStand: 13.05.2022\n\nLizenz: CC0 1.0 Universell (CC0 1.0) / Public Domain Dedication (https://creativecommons.org/publicdomain/zero/1.0/deed.de)\"\""
         },
         {
           "lang": "en",
-          "value": "\"\"Controlled Vocabulary created by VerbundFDB \n\n Citation: \n\n GNERD: Survey Unit Educational Research. Version 1.0. Retrieved from https://mdr.iqb.hu-berlin.de/admin/#/catalog/94d1ae4f-a441-c728-4a03-adb0eb4604af \n\n 2018 \"\""
+          "value": "\"\"This is a controlled vocabulary for methodological information on the study and indicates the entity that provided the information carried by the variable.\nCitation: VerbundFDB: Survey Unit Educational Research. Version 2.0. Retrieved from https://mdr.iqb.hu-berlin.de/#/catalog/003f2155-64f0-98c9-93c6-687d68090742.\nProvenance: This is a controlled vocabulary developed and used by the VerbundFDB metadata working group (Noemi Betancort-Cabrera, Andreas Daniel, Daniel Goebel, Karoline Harzenetter, Ute Hoffstätter, Nadeshda Jung, Reiner Mauer, Claudia Neuendorf, Lisa Pegelow, Maike Porzelt, Alexander Schuster and Dirk Weisbrod).\n\nas of 13.05.2022\n\nLicense: CC0 1.0 Universell (CC0 1.0) / Public Domain Dedication (https://creativecommons.org/publicdomain/zero/1.0/deed.de) \"\""
         }
       ]
     },
@@ -159,11 +159,11 @@
       "description": [
         {
           "lang": "de",
-          "value": "\"\"Kontrolliertes Vokabular VerbundFDB: Erhebungsmethode \n\n Stand: 11.05.2020 \n\n Hierbei handelt es sich um ein kontrolliertes Vokabular zur Erhebungsmethode, die verwendet wurde, um Daten zu bekommen. \"\""
+          "value": "\"\"Hierbei handelt es sich um ein kontrolliertes Vokabular zu methodischen Informationen zur Studie und bildet die Einheit, die die enthaltenen Informationen bereitgestellt hat, ab.\n\nZitation: VerbundFDB: Erhebungseinheit Bildungsforschung. Version 2.0. Verfügbar unter https://mdr.iqb.hu-berlin.de/#/catalog/003f2155-64f0-98c9-93c6-687d68090742.\n\nProvenienz: Es handelt sich hierbei um ein kontrolliertes Vokabular, welches von der VerbundFDB-Arbeitsgruppe Metadaten unter Beteiligung von Noemi Betancort-Cabrera, Andreas Daniel, Daniel Goebel, Karoline Harzenetter, Ute Hoffstätter, Nadeshda Jung, Reiner Mauer, Claudia Neuendorf, Lisa Pegelow, Maike Porzelt, Alexander Schuster und Dirk Weisbrod entwickelt wurde.\n\nStand: 13.05.2022\n\nLizenz: CC0 1.0 Universell (CC0 1.0) / Public Domain Dedication (https://creativecommons.org/publicdomain/zero/1.0/deed.de)\n\"\""
         },
         {
           "lang": "en",
-          "value": "\"\"Controlled Vocabulary: Survey Method \n\n as of: 11.05.2020 \n\n This is a controlled vocabulary of the survey method used to obtain data.\"\""
+          "value": "\"\"This is a controlled vocabulary of the survey method used to obtain data.\n\nCitation: VerbundFDB: Survey Method Educational Research. Version 1.0. Retrieved from https://mdr.iqb.hu-berlin.de/#/catalog/dfa9cfa4-b86f-42d0-d370-684694e5bc80. Provenance: Controlled Vocabulary VerbundFDB: Survey Method Implemented revised version adapted to the requirements of the VerbundFDB. Decided on 11.05.2020 in the VerbundFDB committee (Marcus Eisentraut, Karoline Harzenetter, Nadeshda Jung, Claudia Neuendorf, Lisa Pegelow, Maike Porzelt, Jessica Trixa, Dirk Weisbrod)\n\nas of: 11.05.2020\n\nLicense: CC0 1.0 Universell (CC0 1.0) / Public Domain Dedication (https://creativecommons.org/publicdomain/zero/1.0/deed.de)\"\""
         }
       ]
     },
@@ -176,7 +176,7 @@
         },
         {
           "lang": "en",
-          "value": "Mode of Collection"
+          "value": "Mode of Collection v1"
         }
       ],
       "filenameSource": "v1_Erhebungsverfahren_v1.csv",
@@ -184,11 +184,11 @@
       "description": [
         {
           "lang": "de",
-          "value": "\"\" Kontrolliertes Vokabular VerbundFDB: Erhebungsverfahren. \n\n Implementierte überarbeitete Version in Anpassung an die Anforderungen des VerbundFDB \n\n  Stand: 13.12.2016 \n\n   Englische Beschreibungen kommen von DDI Controlled Vocabulary for Mode Of Collection \n\n hierbei handelt es sich um ein kontrolliertes Vokabular zur Prozedur, Technik oder Art der Erhebung, die verwendet wurde, um Daten zu bekommen. \"\""
+          "value": "\"\"Hierbei handelt es sich um ein kontrolliertes Vokabular zur Beschreibung der Datenerhebung, zur Beschreibung der Methode, mit der die Untersuchung durchgeführt wurde, also zur Prozedur, Technik oder Art der Erhebung, die verwendet wurde, um Daten zu bekommen.\n\nZitation: VerbundFDB: Erhebungsverfahren Bildungsforschung. Version 1.0. Verfügbar unter https://mdr.iqb.hu-berlin.de/#/catalog/a1fb802d-6075-d123-1f26-6eb9f20d9984. Provenienz: basierend auf DDI Alliance (2016) DDI Controlled Vocabulary for Mode Of Collection. Retrieved from http://www.ddialliance.org/Specification/DDI-CV/ModeOfCollection_3.0.html Deutsche Übersetzung: Baum, Katrin; Post, Marlies and Jedinger, Alexander (2015). GESIS. Kontrolliertes Vokabular VerbundFDB: Erhebungsverfahren Implementierte überarbeitete Version in Anpassung an die Anforderungen des VerbundFDB. Beschlossen am 13.12.2016 im Bearbeitergremium VerbundFDB, bestehend aus Marcus Eisentraut, Karoline Harzenetter, Claudia Neuendorf, Lisa Pegelow, Maike Porzelt, Thomas Schwager\n\nStand: 13.12.2016 (Bearbeitung: Thomas Schwager Quelle: Überarbeitete Version des GESIS-DAS Kontrolliertes Vokabulars V. 2.0: Erhebungsverfahren Übersetzung des DDI Controlled Vocabulary for Mode Of Collection Datum Originalversion Übersetzung/Bearbeitung 16.11.2015 V. 2.0 Katrin Baum, Marlies Post, Dr. Alexander Jedinger 10.06.2015 V. 2.0 Dr. Alexander Jedinger 08.04.2013 V. 1.0 Monika Linne)\n\nLizenz: CC0 1.0 Universell (CC0 1.0) / Public Domain Dedication (https://creativecommons.org/publicdomain/zero/1.0/deed.de)\n\nEs gibt mit Stand 11.5.20220 eine neue Version: VerbundFDB: Erhebungsverfahren Bildungsforschung. Version 2.0. Verfügbar unter https://mdr.iqb.hu-berlin.de/#/catalog/48f296c7-fba6-475c-e53b-3cee66b27453.\"\""
         },
         {
           "lang": "en",
-          "value": "\"\"Controlled Vocabulary GNERD: Mode of Collection \n\n Implemented revised version adapted to the requirements of the GNERD \n\n as of: 13.12.2016\"\""
+          "value": "\"\"The procedure, technique, or mode of inquiry used to attain the data. Description of the method of data collection.\n\nCitation: VerbundFDB: Mode of Collection Educational Research. Version 1.0. Retrieved from https://mdr.iqb.hu-berlin.de/#/catalog/a1fb802d-6075-d123-1f26-6eb9f20d9984 Provenance: Based on DDI Alliance (2016) DDI Controlled Vocabulary for Mode Of Collection. Retrieved from http://www.ddialliance.org/Specification/DDI-CV/ModeOfCollection_3.0.html German Translation: Baum, Katrin; Post, Marlies and Jedinger, Alexander (2015). GESIS. Controlled Vocabulary VerbundFDB: Mode of Collection Implemented revised version adapted to the requirements of the VerbundFDB. Decided on 13.12.2016 in the VerbundFDB committee (Marcus Eisentraut, Karoline Harzenetter, Claudia Neuendorf, Lisa Pegelow, Maike Porzelt, Thomas Schwager)\n\nas of: 13.12.2016 (Editing: Thomas Schwager Source: Revised version of GESIS DAS Controlled Vocabulary V. 2.0: Collection Mode Translation of the DDI Controlled Vocabulary for Mode Of Collection Date Original Version Translation / Editing 16.11.2015 V. 2.0 Katrin Baum, Marlies Post, Dr. Alexander Jedinger 10.06.2015 V. 2.0 Dr. Alexander Jedinger 08.04.2013 V. 1.0 Monika Linne)\n\nLicense: CC0 1.0 Universell (CC0 1.0) / Public Domain Dedication (https://creativecommons.org/publicdomain/zero/1.0/deed.de)\n\nThere is a new version as of 11.5.2020: VerbundFDB: Erhebungsverfahren Bildungsforschung. Version 2.0. Retrieved from https://mdr.iqb.hu-berlin.de/#/catalog/48f296c7-fba6-475c-e53b-3cee66b27453.\n\"\""
         }
       ]
     },
@@ -201,7 +201,7 @@
         },
         {
           "lang": "en",
-          "value": "Mode of Collection"
+          "value": "Mode of Collection v2"
         }
       ],
       "filenameSource": "v2_Erhebungsverfahren_v2.csv",
@@ -209,11 +209,11 @@
       "description": [
         {
           "lang": "de",
-          "value": "\"\" Kontrolliertes Vokabular VerbundFDB: Erhebungsverfahren. \n\n Implementierte überarbeitete Version in Anpassung an die Anforderungen des VerbundFDB \n\n  Stand: 11.05.2020 \n\n   Englische Beschreibungen kommen von DDI Controlled Vocabulary for Mode Of Collection \n\n Hierbei handelt es sich um ein kontrolliertes Vokabular zur Prozedur, Technik oder Art der Erhebung, die verwendet wurde, um Daten zu bekommen. \"\""
+          "value": "\"\"Hierbei handelt es sich um ein kontrolliertes Vokabular zur Beschreibung der Datenerhebung, zur Beschreibung der Methode, mit der die Untersuchung durchgeführt wurde, also zur Prozedur, Technik oder Art der Erhebung, die verwendet wurde, um Daten zu bekommen.\n\nZitation: VerbundFDB: Erhebungsverfahren Bildungsforschung. Version 2.0. Verfügbar unter https://mdr.iqb.hu-berlin.de/#/catalog/48f296c7-fba6-475c-e53b-3cee66b27453. Provenienz: basierend auf DDI Alliance (2016) DDI Controlled Vocabulary for Mode Of Collection. Verfügbar unter http://www.ddialliance.org/Specification/DDI-CV/ModeOfCollection_3.0.html Deutsche Übersetzung: Baum, Katrin; Post, Marlies and Jedinger, Alexander (2015). GESIS. Kontrolliertes Vokabular VerbundFDB: Erhebungsverfahren Implementierte überarbeitete Version in Anpassung an die Anforderungen des VerbundFDB Beschlossen am 11.05.2020 im Bearbeitergremium VerbundFDB, bestehend aus Marcus Eisentraut, Karoline Harzenetter, Nadeshda Jung, Claudia Neuendorf, Lisa Pegelow, Maike Porzelt, Jessica Trixa, Dirk Weisbrod Stand: 11.05.2020 Quelle: Überarbeitete Version des GESIS-DAS Kontrolliertes Vokabulars V. 2.0: Erhebungsverfahren Übersetzung des DDI Controlled Vocabulary for Mode Of Collection Datum Originalversion Übersetzung/Bearbeitung 16.11.2015 V. 2.0 Katrin Baum, Marlies Post, Dr. Alexander Jedinger 10.06.2015 V. 2.0 Dr. Alexander Jedinger 08.04.2013 V. 1.0 Monika Linne\n\nLizenz: CC0 1.0 Universell (CC0 1.0) / Public Domain Dedication (https://creativecommons.org/publicdomain/zero/1.0/deed.de)\"\""
         },
         {
           "lang": "en",
-          "value": "\"\"Controlled Vocabulary GNERD: Mode of Collection \n\n Implemented revised version adapted to the requirements of the GNERD \n\n as of: 11.05.2020\"\""
+          "value": "\"\"The procedure, technique, or mode of inquiry used to attain the data. Description of the method of data collection.\n\nCitation: VerbundFDB: Mode of Collection Educational Research. Version 2.0. Retrieved from https://mdr.iqb.hu-berlin.de/#/catalog/48f296c7-fba6-475c-e53b-3cee66b27453 Provenance: Based on DDI Alliance (2016) DDI Controlled Vocabulary for Mode Of Collection. Retrieved from http://www.ddialliance.org/Specification/DDI-CV/ModeOfCollection_3.0.html German Translation: Baum, Katrin; Post, Marlies and Jedinger, Alexander (2015). GESIS. Controlled Vocabulary VerbundFDB: Mode of Collection Implemented revised version adapted to the requirements of the VerbundFDB Decided on 11.05.2020 in the VerbundFDB committee (Marcus Eisentraut, Karoline Harzenetter, Nadeshda Jung, Claudia Neuendorf, Lisa Pegelow, Maike Porzelt, Jessica Trixa, Dirk Weisbrod) As of: 11.05.2020 Source: Revised version of GESIS DAS Controlled Vocabulary V. 2.0: Collection Mode Translation of the DDI Controlled Vocabulary for Mode Of Collection Date Original Version Translation / Editing 16.11.2015 V. 2.0 Katrin Baum, Marlies Post, Dr. Alexander Jedinger 10.06.2015 V. 2.0 Dr. Alexander Jedinger 08.04.2013 V. 1.0 Monika Linne\n\nLicense: CC0 1.0 Universell (CC0 1.0) / Public Domain Dedication (https://creativecommons.org/publicdomain/zero/1.0/deed.de)\"\""
         }
       ]
     },
@@ -234,11 +234,11 @@
       "description": [
         {
           "lang": "de",
-          "value": "\"\"Kontrolliertes Vokabular VerbundFDB: Forschungsdesign \n\n Implementierte überarbeitete Version in Anpassung an die Anforderungen des VerbundFDB \n\n  Stand: 13.12.2016 \"\""
+          "value": "\"\"Hierbei handelt es sich um ein kontrolliertes Vokabular, welches beschreibt, wie die empirische Fragestellung untersucht wurde.\n\nZitation: VerbundFDB: Forschungsdesign Bildungsforschung. Version 1.0. Verfügbar unter https://mdr.iqb.hu-berlin.de/#/catalog/89724b81-2aab-d0dc-29ca-87f29b1c9e01.\n\nProvenienz: Based on Jedinger, Alexander and Eisentraut, Marcus (2016): Forschungsdesign. GESIS. Kontrolliertes Vokabular Verbund Forschungsdaten Bildung: Forschungsdesign Implementierte überarbeitete Version. Beschlossen am 01.12.2016 im Bearbeitergremium VerbundFDB, bestehend aus Marcus Eisentraut, Karoline Harzenetter, Claudia Neuendorf, Lisa Pegelow, Maike Porzelt, Thomas Schwager\n\nStand: 13.12.2016 (Bearbeitung: Thomas Schwager Quelle: GESIS Controlled Vocabularies: Research Design / GESIS Kontrollierte Vokabulare: Forschungsdesign (Englisch-Deutsche Fassung) 08.08.2016 Dr. Alexander Jedinger GESIS/DDI Vocabulary Group, Marcus Eisentraut GESIS)\n\nLizenz: CC0 1.0 Universell (CC0 1.0) / Public Domain Dedication (https://creativecommons.org/publicdomain/zero/1.0/deed.de)\n\"\""
         },
         {
           "lang": "en",
-          "value": "\"\"Controlled Vocabulary GNERD: Research Design \n\n Implemented revised version adapted to the requirements of the GNERD \n\n as of: 13.12.2016 \"\""
+          "value": "\"\"This is a controlled vocabulary which classify research designs. A research design typically outlines the theories and models underlying a project, and is defined as the overall plan or structure that guides the process of conducting research.\nCitation: VerbundFDB: Research Design Educational Research. Version 1.0. Retrieved from https://mdr.iqb.hu-berlin.de/#/catalog/89724b81-2aab-d0dc-29ca-87f29b1c9e01 Provenance: Based on Jedinger, Alexander and Eisentraut, Marcus (2016): Forschungsdesign. GESIS. Controlled Vocabulary VerbundFDB: Research Design Implemented revised version. Decided on 01.12.2016 by VerbundFDB (Marcus Eisentraut, Karoline Harzenetter, Claudia Neuendorf, Lisa Pegelow, Maike Porzelt, Thomas Schwager)\n\nas of: 13.12.2016 (Editing: Thomas Schwager Source: GESIS Controlled Vocabularies: Research Design English-German version 08.08.2016 Dr. Alexander Jedinger GESIS / DDI Vocabulary Group Marcus Eisentraut GESIS)\n\nLicense: CC0 1.0 Universell (CC0 1.0) / Public Domain Dedication (https://creativecommons.org/publicdomain/zero/1.0/deed.de)\n\"\""
         }
       ]
     },
@@ -259,11 +259,11 @@
       "description": [
         {
           "lang": "de",
-          "value": "\"\"Kontrolliertes Vokabular VerbundFDB: Forschungsgebiet \n\n Quellen für Übersetzung: \n\n https://nces.ed.gov/ipeds/cipcode/browse.aspx?y=55 \n\n https://en.wikipedia.org/wiki/Outline_of_academic_disciplines \"\""
+          "value": "\"\"Hierbei handelt es sich um ein kontrolliertes Vokabular zu Themenbereichen von Forschungsdaten des VerbundFDB.\n\nZitation: VerbundFDB: Forschungsgebiet Bildungsforschung. Version 1.0. Verfügbar unter\n\nLizenz: CC0 1.0 Universell (CC0 1.0) / Public Domain Dedication (https://creativecommons.org/publicdomain/zero/1.0/deed.de)\"\""
         },
         {
           "lang": "en",
-          "value": "\"\"Controlled Vocabulary GNERD: Area of Research \n\n Sources for Translation: \n\n https://nces.ed.gov/ipeds/cipcode/browse.aspx?y=55 \n\n https://en.wikipedia.org/wiki/Outline_of_academic_disciplines\"\""
+          "value": "\"\"This is a controlled vocabulary for themes for research data of the VerbundFDB.\n\nCitation: VerbundFDB: Area of Research Educational Research. Version 1.0. Retrieved from\n\nLicense: CC0 1.0 Universell (CC0 1.0) / Public Domain Dedication (https://creativecommons.org/publicdomain/zero/1.0/deed.de)\"\""
         }
       ]
     },
@@ -284,11 +284,11 @@
       "description": [
         {
           "lang": "de",
-          "value": "Themenbereiche von Forschungsdaten des VerbundFDB"
+          "value": "\"\"Hierbei handelt es sich um ein kontrolliertes Vokabular zu Themenbereichen von Forschungsdaten des VerbundFDB.\n\nZitation: VerbundFDB: Themenbereiche Bildungsforschung. Version 1.0. Verfügbar unter\n\nLizenz: CC0 1.0 Universell (CC0 1.0) / Public Domain Dedication (https://creativecommons.org/publicdomain/zero/1.0/deed.de)\"\""
         },
         {
           "lang": "en",
-          "value": "Themes for research data of the VerbundFDB"
+          "value": "\"\"This is a controlled vocabulary for themes for research data of the VerbundFDB.\n\nCitation: VerbundFDB: Themes Educational Research. Version 1.0. Retrieved from\n\nLicense: CC0 1.0 Universell (CC0 1.0) / Public Domain Dedication (https://creativecommons.org/publicdomain/zero/1.0/deed.de)\"\""
         }
       ]
     },
@@ -309,13 +309,13 @@
       "description": [
         {
           "lang": "de",
-          "value": "Zugangsbedingungen und Zugriffswege in den FDZ des VerbundFDB auf Forschungsdaten"
+          "value": "\"\"Hierbei handelt es sich um ein kontrolliertes Vokabular zu den Möglichkeiten und Bedingungen des Datenzugangs, es bildet die Zugangsbedingungen und Zugriffswege in den FDZ des VerbundFDB auf Forschungsdaten ab.\n\nZitation: VerbundFDB: Zugriff Bildungsforschung. Version 1.0. Verfügbar unter \n\nLizenz: CC0 1.0 Universell (CC0 1.0) / Public Domain Dedication (https://creativecommons.org/publicdomain/zero/1.0/deed.de)\"\""
         },
         {
           "lang": "en",
-          "value": "Access conditions and access routes to research data in the FDZs of the VerbundFDB"
+          "value": "\"\"This controlled vocabulary maps the access conditions and access paths to research data in the FDZ of the VerbundFDB.\n\nCitation: VerbundFDB: Access Educational Research. Version 1.0. Retrieved from\n\nLicense: CC0 1.0 Universell (CC0 1.0) / Public Domain Dedication (https://creativecommons.org/publicdomain/zero/1.0/deed.de)\"\""
         }
       ]
-    }      
+    }
   ]
 }
