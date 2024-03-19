@@ -93,21 +93,23 @@ n0:
 	"IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@en;
 	dct:title "VerbundFDB - Kontrolliertes Vokabular - Erhebungsmethode"@de,
 	"VerbundFDB - Controlled Vocabulary - Survey Method"@en;
-	dct:description """Hierbei handelt es sich um ein kontrolliertes Vokabular zu methodischen Informationen zur Studie und bildet die Einheit, die die enthaltenen Informationen bereitgestellt hat, ab.
+	dct:description """Hierbei handelt es sich um ein kontrolliertes Vokabular der Erhebungsmethode, die zur Datenerfassung verwendet wird. VerbundFDB: Erhebungsmethode Bildungsforschung (Version 1.0) 
 
-Zitation: VerbundFDB: Erhebungseinheit Bildungsforschung. Version 2.0. Verfügbar unter https://w3id.org/iqb/v85/em/.
+Zitation: VerbundFDB: Erhebungsmethode Bildungsforschung. Version 1.0. Verfügbar unter https://w3id.org/iqb/v85/em/.
 
-Provenienz: Es handelt sich hierbei um ein kontrolliertes Vokabular, welches von der VerbundFDB-Arbeitsgruppe Metadaten unter Beteiligung von Noemi Betancort-Cabrera, Andreas Daniel, Daniel Goebel, Karoline Harzenetter, Ute Hoffstätter, Nadeshda Jung, Reiner Mauer, Claudia Neuendorf, Lisa Pegelow, Maike Porzelt, Alexander Schuster und Dirk Weisbrod entwickelt wurde.
+Provenienz: Es handelt sich hierbei um ein kontrolliertes Vokabular, welches im Bearbeitergremium des VerbundFDB, bestehend aus Marcus Eisentraut, Karoline Harzenetter, Nadeshda Jung, Claudia Neuendorf, Lisa Pegelow, Maike Porzelt, Jessica Trixa, Dirk Weisbrod, beschlossen wurde.
 
-Stand: 13.05.2022
+Stand: 11.05.2020
 
 Lizenz: CC0 1.0 Universell (CC0 1.0) / Public Domain Dedication (https://creativecommons.org/publicdomain/zero/1.0/deed.de)
 """@de,
-	"""This is a controlled vocabulary of the survey method used to obtain data.
+	"""Bezeichner: VerbundFDB: Survey Method Educational Research (Version 1.0)
 
-Citation: VerbundFDB: Survey Method Educational Research. Version 1.0. Retrieved from https://w3id.org/iqb/v85/em/. Provenance: Controlled Vocabulary VerbundFDB: Survey Method Implemented revised version adapted to the requirements of the VerbundFDB. Decided on 11.05.2020 in the VerbundFDB committee (Marcus Eisentraut, Karoline Harzenetter, Nadeshda Jung, Claudia Neuendorf, Lisa Pegelow, Maike Porzelt, Jessica Trixa, Dirk Weisbrod)
+Citation: VerbundFDB: Survey Method Educational Research. Version 1.0. Retrieved from https://w3id.org/iqb/v85/em/.
 
-as of: 11.05.2020
+Provenance: This is a controlled vocabulary developed and used by the VerbundFDB metadata working group (Marcus Eisentraut, Karoline Harzenetter, Nadeshda Jung, Claudia Neuendorf, Lisa Pegelow, Maike Porzelt, Jessica Trixa, Dirk Weisbrod).
+
+As of: 11.05.2020
 
 License: CC0 1.0 Universell (CC0 1.0) / Public Domain Dedication (https://creativecommons.org/publicdomain/zero/1.0/deed.de)"""@en;
 	skos:hasTopConcept
