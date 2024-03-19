@@ -93,7 +93,7 @@ n0:
 	"IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@en;
 	dct:title "VerbundFDB - Kontrolliertes Vokabular - Erhebungsmethode"@de,
 	"VerbundFDB - Controlled Vocabulary - Survey Method"@en;
-	dct:description """Hierbei handelt es sich um ein kontrolliertes Vokabular der Erhebungsmethode, die zur Datenerfassung verwendet wird. VerbundFDB: Erhebungsmethode Bildungsforschung (Version 1.0) 
+	dct:description """Hierbei handelt es sich um ein kontrolliertes Vokabular der Erhebungsmethode, die zur Datenerfassung verwendet wird.
 
 Zitation: VerbundFDB: Erhebungsmethode Bildungsforschung. Version 1.0. Verfügbar unter https://w3id.org/iqb/v85/em/.
 
@@ -103,7 +103,7 @@ Stand: 11.05.2020
 
 Lizenz: CC0 1.0 Universell (CC0 1.0) / Public Domain Dedication (https://creativecommons.org/publicdomain/zero/1.0/deed.de)
 """@de,
-	"""Bezeichner: VerbundFDB: Survey Method Educational Research (Version 1.0)
+	"""This is a controlled vocabulary of the survey method used to obtain data.
 
 Citation: VerbundFDB: Survey Method Educational Research. Version 1.0. Retrieved from https://w3id.org/iqb/v85/em/.
 
