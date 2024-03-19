@@ -259,11 +259,11 @@
       "description": [
         {
           "lang": "de",
-          "value": "\"\"Hierbei handelt es sich um ein kontrolliertes Vokabular zu Themenbereichen von Forschungsdaten des VerbundFDB.\n\nZitation: VerbundFDB: Forschungsgebiet Bildungsforschung. Version 1.0. Verfügbar unter\n\nLizenz: CC0 1.0 Universell (CC0 1.0) / Public Domain Dedication (https://creativecommons.org/publicdomain/zero/1.0/deed.de)\"\""
+          "value": "\"\"Hierbei handelt es sich um ein kontrolliertes Vokabular zu Themenbereichen von Forschungsdaten des VerbundFDB.\n\nZitation: VerbundFDB: Forschungsgebiet Bildungsforschung. Version 1.0. Verfügbar unter https://w3id.org/iqb/v85/fg/.\n\nLizenz: CC0 1.0 Universell (CC0 1.0) / Public Domain Dedication (https://creativecommons.org/publicdomain/zero/1.0/deed.de)\"\""
         },
         {
           "lang": "en",
-          "value": "\"\"This is a controlled vocabulary for themes for research data of the VerbundFDB.\n\nCitation: VerbundFDB: Area of Research Educational Research. Version 1.0. Retrieved from\n\nLicense: CC0 1.0 Universell (CC0 1.0) / Public Domain Dedication (https://creativecommons.org/publicdomain/zero/1.0/deed.de)\"\""
+          "value": "\"\"This is a controlled vocabulary for themes for research data of the VerbundFDB.\n\nCitation: VerbundFDB: Area of Research Educational Research. Version 1.0. Retrieved from https://w3id.org/iqb/v85/fg/. \n\nLicense: CC0 1.0 Universell (CC0 1.0) / Public Domain Dedication (https://creativecommons.org/publicdomain/zero/1.0/deed.de)\"\""
         }
       ]
     },
@@ -284,11 +284,11 @@
       "description": [
         {
           "lang": "de",
-          "value": "\"\"Hierbei handelt es sich um ein kontrolliertes Vokabular zu Themenbereichen von Forschungsdaten des VerbundFDB.\n\nZitation: VerbundFDB: Themenbereiche Bildungsforschung. Version 1.0. Verfügbar unter\n\nLizenz: CC0 1.0 Universell (CC0 1.0) / Public Domain Dedication (https://creativecommons.org/publicdomain/zero/1.0/deed.de)\"\""
+          "value": "\"\"Hierbei handelt es sich um ein kontrolliertes Vokabular zu Themenbereichen von Forschungsdaten des VerbundFDB.\n\nZitation: VerbundFDB: Themenbereiche Bildungsforschung. Version 1.0. Verfügbar unter https://w3id.org/iqb/v85/tb/. \n\nLizenz: CC0 1.0 Universell (CC0 1.0) / Public Domain Dedication (https://creativecommons.org/publicdomain/zero/1.0/deed.de)\"\""
         },
         {
           "lang": "en",
-          "value": "\"\"This is a controlled vocabulary for themes for research data of the VerbundFDB.\n\nCitation: VerbundFDB: Themes Educational Research. Version 1.0. Retrieved from\n\nLicense: CC0 1.0 Universell (CC0 1.0) / Public Domain Dedication (https://creativecommons.org/publicdomain/zero/1.0/deed.de)\"\""
+          "value": "\"\"This is a controlled vocabulary for themes for research data of the VerbundFDB.\n\nCitation: VerbundFDB: Themes Educational Research. Version 1.0. Retrieved from https://w3id.org/iqb/v85/tb/.\n\nLicense: CC0 1.0 Universell (CC0 1.0) / Public Domain Dedication (https://creativecommons.org/publicdomain/zero/1.0/deed.de)\"\""
         }
       ]
     },
@@ -309,11 +309,11 @@
       "description": [
         {
           "lang": "de",
-          "value": "\"\"Hierbei handelt es sich um ein kontrolliertes Vokabular zu den Möglichkeiten und Bedingungen des Datenzugangs, es bildet die Zugangsbedingungen und Zugriffswege in den FDZ des VerbundFDB auf Forschungsdaten ab.\n\nZitation: VerbundFDB: Zugriff Bildungsforschung. Version 1.0. Verfügbar unter \n\nLizenz: CC0 1.0 Universell (CC0 1.0) / Public Domain Dedication (https://creativecommons.org/publicdomain/zero/1.0/deed.de)\"\""
+          "value": "\"\"Hierbei handelt es sich um ein kontrolliertes Vokabular zu den Möglichkeiten und Bedingungen des Datenzugangs, es bildet die Zugangsbedingungen und Zugriffswege in den FDZ des VerbundFDB auf Forschungsdaten ab.\n\nZitation: VerbundFDB: Zugriff Bildungsforschung. Version 1.0. Verfügbar unter https://w3id.org/iqb/v85/zu/. \n\nLizenz: CC0 1.0 Universell (CC0 1.0) / Public Domain Dedication (https://creativecommons.org/publicdomain/zero/1.0/deed.de)\"\""
         },
         {
           "lang": "en",
-          "value": "\"\"This controlled vocabulary maps the access conditions and access paths to research data in the FDZ of the VerbundFDB.\n\nCitation: VerbundFDB: Access Educational Research. Version 1.0. Retrieved from\n\nLicense: CC0 1.0 Universell (CC0 1.0) / Public Domain Dedication (https://creativecommons.org/publicdomain/zero/1.0/deed.de)\"\""
+          "value": "\"\"This controlled vocabulary maps the access conditions and access paths to research data in the FDZ of the VerbundFDB.\n\nCitation: VerbundFDB: Access Educational Research. Version 1.0. Retrieved from https://w3id.org/iqb/v85/zu/. \n\nLicense: CC0 1.0 Universell (CC0 1.0) / Public Domain Dedication (https://creativecommons.org/publicdomain/zero/1.0/deed.de)\"\""
         }
       ]
     }

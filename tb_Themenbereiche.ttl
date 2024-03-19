@@ -117,12 +117,12 @@ n0:
 	"VerbundFDB - Controlled Vocabulary - Themes"@en;
 	dct:description """Hierbei handelt es sich um ein kontrolliertes Vokabular zu Themenbereichen von Forschungsdaten des VerbundFDB.
 
-Zitation: VerbundFDB: Themenbereiche Bildungsforschung. Version 1.0. Verfügbar unter
+Zitation: VerbundFDB: Themenbereiche Bildungsforschung. Version 1.0. Verfügbar unter https://w3id.org/iqb/v85/tb/. 
 
 Lizenz: CC0 1.0 Universell (CC0 1.0) / Public Domain Dedication (https://creativecommons.org/publicdomain/zero/1.0/deed.de)"""@de,
 	"""This is a controlled vocabulary for themes for research data of the VerbundFDB.
 
-Citation: VerbundFDB: Themes Educational Research. Version 1.0. Retrieved from
+Citation: VerbundFDB: Themes Educational Research. Version 1.0. Retrieved from https://w3id.org/iqb/v85/tb/.
 
 License: CC0 1.0 Universell (CC0 1.0) / Public Domain Dedication (https://creativecommons.org/publicdomain/zero/1.0/deed.de)"""@en;
 	skos:hasTopConcept

@@ -151,12 +151,12 @@ n0:
 	"VerbundFDB - Controlled Vocabulary - Area of Research"@en;
 	dct:description """Hierbei handelt es sich um ein kontrolliertes Vokabular zu Themenbereichen von Forschungsdaten des VerbundFDB.
 
-Zitation: VerbundFDB: Forschungsgebiet Bildungsforschung. Version 1.0. Verfügbar unter
+Zitation: VerbundFDB: Forschungsgebiet Bildungsforschung. Version 1.0. Verfügbar unter https://w3id.org/iqb/v85/fg/.
 
 Lizenz: CC0 1.0 Universell (CC0 1.0) / Public Domain Dedication (https://creativecommons.org/publicdomain/zero/1.0/deed.de)"""@de,
 	"""This is a controlled vocabulary for themes for research data of the VerbundFDB.
 
-Citation: VerbundFDB: Area of Research Educational Research. Version 1.0. Retrieved from
+Citation: VerbundFDB: Area of Research Educational Research. Version 1.0. Retrieved from https://w3id.org/iqb/v85/fg/. 
 
 License: CC0 1.0 Universell (CC0 1.0) / Public Domain Dedication (https://creativecommons.org/publicdomain/zero/1.0/deed.de)"""@en;
 	skos:hasTopConcept
