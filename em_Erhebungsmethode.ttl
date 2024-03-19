@@ -95,7 +95,7 @@ n0:
 	"VerbundFDB - Controlled Vocabulary - Survey Method"@en;
 	dct:description """Hierbei handelt es sich um ein kontrolliertes Vokabular zu methodischen Informationen zur Studie und bildet die Einheit, die die enthaltenen Informationen bereitgestellt hat, ab.
 
-Zitation: VerbundFDB: Erhebungseinheit Bildungsforschung. Version 2.0. Verfügbar unter https://mdr.iqb.hu-berlin.de/#/catalog/003f2155-64f0-98c9-93c6-687d68090742.
+Zitation: VerbundFDB: Erhebungseinheit Bildungsforschung. Version 2.0. Verfügbar unter https://w3id.org/iqb/v85/em/.
 
 Provenienz: Es handelt sich hierbei um ein kontrolliertes Vokabular, welches von der VerbundFDB-Arbeitsgruppe Metadaten unter Beteiligung von Noemi Betancort-Cabrera, Andreas Daniel, Daniel Goebel, Karoline Harzenetter, Ute Hoffstätter, Nadeshda Jung, Reiner Mauer, Claudia Neuendorf, Lisa Pegelow, Maike Porzelt, Alexander Schuster und Dirk Weisbrod entwickelt wurde.
 
@@ -105,7 +105,7 @@ Lizenz: CC0 1.0 Universell (CC0 1.0) / Public Domain Dedication (https://creativ
 """@de,
 	"""This is a controlled vocabulary of the survey method used to obtain data.
 
-Citation: VerbundFDB: Survey Method Educational Research. Version 1.0. Retrieved from https://mdr.iqb.hu-berlin.de/#/catalog/dfa9cfa4-b86f-42d0-d370-684694e5bc80. Provenance: Controlled Vocabulary VerbundFDB: Survey Method Implemented revised version adapted to the requirements of the VerbundFDB. Decided on 11.05.2020 in the VerbundFDB committee (Marcus Eisentraut, Karoline Harzenetter, Nadeshda Jung, Claudia Neuendorf, Lisa Pegelow, Maike Porzelt, Jessica Trixa, Dirk Weisbrod)
+Citation: VerbundFDB: Survey Method Educational Research. Version 1.0. Retrieved from https://w3id.org/iqb/v85/em/. Provenance: Controlled Vocabulary VerbundFDB: Survey Method Implemented revised version adapted to the requirements of the VerbundFDB. Decided on 11.05.2020 in the VerbundFDB committee (Marcus Eisentraut, Karoline Harzenetter, Nadeshda Jung, Claudia Neuendorf, Lisa Pegelow, Maike Porzelt, Jessica Trixa, Dirk Weisbrod)
 
 as of: 11.05.2020
 

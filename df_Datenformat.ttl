@@ -120,14 +120,14 @@ n0:
 	"VerbundFDB - Controlled Vocabulary - Data Format"@en;
 	dct:description """Hierbei handelt es sich um ein kontrolliertes Vokabular zu technischen Informationen zum Datensatz und beschreibt die Datenressource.
 
-Zitation: VerbundFDB: Datenformat Bildungsforschung. Version 1.0. Verfügbar unter https://mdr.iqb.hu-berlin.de/#/catalog/7e812b6c-ee57-a075-eb33-596e4e58f8ab.
+Zitation: VerbundFDB: Datenformat Bildungsforschung. Version 1.0. Verfügbar unter https://w3id.org/iqb/v85/av/.
 
 Provenienz: Es handelt sich hierbei um ein kontrolliertes Vokabular, welches vom VerbundFDB auf Grundlage von da|ra 4.0 (Resource Type) entwickelt wurde.
 
 Lizenz: CC0 1.0 Universell (CC0 1.0) / Public Domain Dedication (https://creativecommons.org/publicdomain/zero/1.0/deed.de)"""@de,
 	"""This is a controlled vocabulary for technical information on the data set and describes the data resource.
 
-Citation: VerbundFDB: Data Format Educational Research. Version 1.0. Retrieved from https://mdr.iqb.hu-berlin.de/#/catalog/7e812b6c-ee57-a075-eb33-596e4e58f8ab.
+Citation: VerbundFDB: Data Format Educational Research. Version 1.0. Retrieved from https://w3id.org/iqb/v85/av/.
 
 Provenance: This is a controlled vocabulary developed by VerbundFDB- on basis of da|ra 4.0 (Resource Type).
 

@@ -398,22 +398,22 @@ n0:
 	"VerbundFDB - Controlled Vocabulary - Mode of Collection v1"@en;
 	dct:description """Hierbei handelt es sich um ein kontrolliertes Vokabular zur Beschreibung der Datenerhebung, zur Beschreibung der Methode, mit der die Untersuchung durchgeführt wurde, also zur Prozedur, Technik oder Art der Erhebung, die verwendet wurde, um Daten zu bekommen.
 
-Zitation: VerbundFDB: Erhebungsverfahren Bildungsforschung. Version 1.0. Verfügbar unter https://mdr.iqb.hu-berlin.de/#/catalog/a1fb802d-6075-d123-1f26-6eb9f20d9984. Provenienz: basierend auf DDI Alliance (2016) DDI Controlled Vocabulary for Mode Of Collection. Retrieved from http://www.ddialliance.org/Specification/DDI-CV/ModeOfCollection_3.0.html Deutsche Übersetzung: Baum, Katrin; Post, Marlies and Jedinger, Alexander (2015). GESIS. Kontrolliertes Vokabular VerbundFDB: Erhebungsverfahren Implementierte überarbeitete Version in Anpassung an die Anforderungen des VerbundFDB. Beschlossen am 13.12.2016 im Bearbeitergremium VerbundFDB, bestehend aus Marcus Eisentraut, Karoline Harzenetter, Claudia Neuendorf, Lisa Pegelow, Maike Porzelt, Thomas Schwager
+Zitation: VerbundFDB: Erhebungsverfahren Bildungsforschung. Version 1.0. Verfügbar unter https://w3id.org/iqb/v85/v1/. Provenienz: basierend auf DDI Alliance (2016) DDI Controlled Vocabulary for Mode Of Collection. Retrieved from http://www.ddialliance.org/Specification/DDI-CV/ModeOfCollection_3.0.html Deutsche Übersetzung: Baum, Katrin; Post, Marlies and Jedinger, Alexander (2015). GESIS. Kontrolliertes Vokabular VerbundFDB: Erhebungsverfahren Implementierte überarbeitete Version in Anpassung an die Anforderungen des VerbundFDB. Beschlossen am 13.12.2016 im Bearbeitergremium VerbundFDB, bestehend aus Marcus Eisentraut, Karoline Harzenetter, Claudia Neuendorf, Lisa Pegelow, Maike Porzelt, Thomas Schwager
 
 Stand: 13.12.2016 (Bearbeitung: Thomas Schwager Quelle: Überarbeitete Version des GESIS-DAS Kontrolliertes Vokabulars V. 2.0: Erhebungsverfahren Übersetzung des DDI Controlled Vocabulary for Mode Of Collection Datum Originalversion Übersetzung/Bearbeitung 16.11.2015 V. 2.0 Katrin Baum, Marlies Post, Dr. Alexander Jedinger 10.06.2015 V. 2.0 Dr. Alexander Jedinger 08.04.2013 V. 1.0 Monika Linne)
 
 Lizenz: CC0 1.0 Universell (CC0 1.0) / Public Domain Dedication (https://creativecommons.org/publicdomain/zero/1.0/deed.de)
 
-Es gibt mit Stand 11.5.2020 eine neue Version: VerbundFDB: Erhebungsverfahren Bildungsforschung. Version 2.0. Verfügbar unter https://mdr.iqb.hu-berlin.de/#/catalog/48f296c7-fba6-475c-e53b-3cee66b27453."""@de,
+Es gibt mit Stand 11.5.2020 eine neue Version: VerbundFDB: Erhebungsverfahren Bildungsforschung. Version 2.0. Verfügbar unter https://w3id.org/iqb/v85/v2/."""@de,
 	"""The procedure, technique, or mode of inquiry used to attain the data. Description of the method of data collection.
 
-Citation: VerbundFDB: Mode of Collection Educational Research. Version 1.0. Retrieved from https://mdr.iqb.hu-berlin.de/#/catalog/a1fb802d-6075-d123-1f26-6eb9f20d9984 Provenance: Based on DDI Alliance (2016) DDI Controlled Vocabulary for Mode Of Collection. Retrieved from http://www.ddialliance.org/Specification/DDI-CV/ModeOfCollection_3.0.html German Translation: Baum, Katrin; Post, Marlies and Jedinger, Alexander (2015). GESIS. Controlled Vocabulary VerbundFDB: Mode of Collection Implemented revised version adapted to the requirements of the VerbundFDB. Decided on 13.12.2016 in the VerbundFDB committee (Marcus Eisentraut, Karoline Harzenetter, Claudia Neuendorf, Lisa Pegelow, Maike Porzelt, Thomas Schwager)
+Citation: VerbundFDB: Mode of Collection Educational Research. Version 1.0. Retrieved from https://w3id.org/iqb/v85/v1/ Provenance: Based on DDI Alliance (2016) DDI Controlled Vocabulary for Mode Of Collection. Retrieved from http://www.ddialliance.org/Specification/DDI-CV/ModeOfCollection_3.0.html German Translation: Baum, Katrin; Post, Marlies and Jedinger, Alexander (2015). GESIS. Controlled Vocabulary VerbundFDB: Mode of Collection Implemented revised version adapted to the requirements of the VerbundFDB. Decided on 13.12.2016 in the VerbundFDB committee (Marcus Eisentraut, Karoline Harzenetter, Claudia Neuendorf, Lisa Pegelow, Maike Porzelt, Thomas Schwager)
 
 as of: 13.12.2016 (Editing: Thomas Schwager Source: Revised version of GESIS DAS Controlled Vocabulary V. 2.0: Collection Mode Translation of the DDI Controlled Vocabulary for Mode Of Collection Date Original Version Translation / Editing 16.11.2015 V. 2.0 Katrin Baum, Marlies Post, Dr. Alexander Jedinger 10.06.2015 V. 2.0 Dr. Alexander Jedinger 08.04.2013 V. 1.0 Monika Linne)
 
 License: CC0 1.0 Universell (CC0 1.0) / Public Domain Dedication (https://creativecommons.org/publicdomain/zero/1.0/deed.de)
 
-There is a new version as of 11.5.2020: VerbundFDB: Erhebungsverfahren Bildungsforschung. Version 2.0. Retrieved from https://mdr.iqb.hu-berlin.de/#/catalog/48f296c7-fba6-475c-e53b-3cee66b27453.
+There is a new version as of 11.5.2020: VerbundFDB: Erhebungsverfahren Bildungsforschung. Version 2.0. Retrieved from https://w3id.org/iqb/v85/v2/.
 """@en;
 	skos:hasTopConcept
 		n1:1,

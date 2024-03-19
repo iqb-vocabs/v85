@@ -65,7 +65,7 @@ n0:
 	"VerbundFDB - Controlled Vocabulary - Research Design"@en;
 	dct:description """Hierbei handelt es sich um ein kontrolliertes Vokabular, welches beschreibt, wie die empirische Fragestellung untersucht wurde.
 
-Zitation: VerbundFDB: Forschungsdesign Bildungsforschung. Version 1.0. Verfügbar unter https://mdr.iqb.hu-berlin.de/#/catalog/89724b81-2aab-d0dc-29ca-87f29b1c9e01.
+Zitation: VerbundFDB: Forschungsdesign Bildungsforschung. Version 1.0. Verfügbar unter https://w3id.org/iqb/v85/fd/.
 
 Provenienz: Based on Jedinger, Alexander and Eisentraut, Marcus (2016): Forschungsdesign. GESIS. Kontrolliertes Vokabular Verbund Forschungsdaten Bildung: Forschungsdesign Implementierte überarbeitete Version. Beschlossen am 01.12.2016 im Bearbeitergremium VerbundFDB, bestehend aus Marcus Eisentraut, Karoline Harzenetter, Claudia Neuendorf, Lisa Pegelow, Maike Porzelt, Thomas Schwager
 
@@ -74,7 +74,7 @@ Stand: 13.12.2016 (Bearbeitung: Thomas Schwager Quelle: GESIS Controlled Vocabul
 Lizenz: CC0 1.0 Universell (CC0 1.0) / Public Domain Dedication (https://creativecommons.org/publicdomain/zero/1.0/deed.de)
 """@de,
 	"""This is a controlled vocabulary which classify research designs. A research design typically outlines the theories and models underlying a project, and is defined as the overall plan or structure that guides the process of conducting research.
-Citation: VerbundFDB: Research Design Educational Research. Version 1.0. Retrieved from https://mdr.iqb.hu-berlin.de/#/catalog/89724b81-2aab-d0dc-29ca-87f29b1c9e01 Provenance: Based on Jedinger, Alexander and Eisentraut, Marcus (2016): Forschungsdesign. GESIS. Controlled Vocabulary VerbundFDB: Research Design Implemented revised version. Decided on 01.12.2016 by VerbundFDB (Marcus Eisentraut, Karoline Harzenetter, Claudia Neuendorf, Lisa Pegelow, Maike Porzelt, Thomas Schwager)
+Citation: VerbundFDB: Research Design Educational Research. Version 1.0. Retrieved from https://w3id.org/iqb/v85/fd/ Provenance: Based on Jedinger, Alexander and Eisentraut, Marcus (2016): Forschungsdesign. GESIS. Controlled Vocabulary VerbundFDB: Research Design Implemented revised version. Decided on 01.12.2016 by VerbundFDB (Marcus Eisentraut, Karoline Harzenetter, Claudia Neuendorf, Lisa Pegelow, Maike Porzelt, Thomas Schwager)
 
 as of: 13.12.2016 (Editing: Thomas Schwager Source: GESIS Controlled Vocabularies: Research Design English-German version 08.08.2016 Dr. Alexander Jedinger GESIS / DDI Vocabulary Group Marcus Eisentraut GESIS)
 
