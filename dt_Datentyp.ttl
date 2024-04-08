@@ -31,13 +31,6 @@ n1:99
 	skos:topConceptOf n0:;
 	skos:prefLabel "Sonstiges Datenmaterial"@de,
 	"other"@en.
-n1:t2d
-	 a skos:Concept;
-	skos:inScheme n0:;
-	skos:notation "";
-	skos:topConceptOf n0:;
-	skos:prefLabel "extra"@de,
-	""@en.
 n0:
 	a skos:ConceptScheme;
 	dct:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de,
@@ -62,5 +55,4 @@ License: CC0 1.0 Universell (CC0 1.0) / Public Domain Dedication (https://creati
 		n1:1,
 		n1:2,
 		n1:3,
-		n1:99,
-		n1:t2d.
+		n1:99.
