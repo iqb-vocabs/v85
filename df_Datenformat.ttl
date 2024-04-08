@@ -112,13 +112,6 @@ n1:15
 	skos:topConceptOf n0:;
 	skos:prefLabel "andere"@de,
 	"Other"@en.
-n1:q2c
-	 a skos:Concept;
-	skos:inScheme n0:;
-	skos:notation "";
-	skos:topConceptOf n0:;
-	skos:prefLabel "extra"@de,
-	""@en.
 n0:
 	a skos:ConceptScheme;
 	dct:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de,
@@ -154,5 +147,4 @@ License: CC0 1.0 Universell (CC0 1.0) / Public Domain Dedication (https://creati
 		n1:12,
 		n1:13,
 		n1:14,
-		n1:15,
-		n1:q2c.
+		n1:15.
