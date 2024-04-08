@@ -1,17 +1,17 @@
-notation,title,description,id,title_en,description_en
-,Audiovisuell,,1,Audiovisual,
-,Datenkollektion,=Sammlung,2,Collection,=Collection
-,DataPaper,,3,Data Paper,
-,Datensatz,"Hierunter fallen auch Logdaten (Hinweis: Im Metadatenschema daIra 4.0 kann bei der Auswahl des Resource Type 'Datensatz' als Spezifizierung bei Resource Tpe Free 'Logdaten' eingetragen werden.).",4,Dataset,"This also includes logfiles (Note: In the metadata schema daIra 4.0, when selecting the Resource Type 'Dataset', 'logfiles' can be entered as a specification for Resource Type Free)."
-,Event,,5,Event,
-,Bild,,6,Image,
-,Interaktives Objekt,,7,Interactive Resource,
-,Modell,,8,Model,
-,Physisches Objekt,,9,Physical Object,
-,Service,,10,Service,
-,Software,,11,Software,
-,Audio,,12,Sound,
-,Text,,13,Text,
-,Workflow,,14,Workflow,
-,andere,,15,Other,
-,extra,,,,
+"notation","title","description","id","title_en","description_en"
+"","Audiovisuell","","1","Audiovisual",""
+"","Datenkollektion","=Sammlung","2","Collection","=Collection"
+"","DataPaper","","3","Data Paper",""
+"","Datensatz","Hierunter fallen auch Logdaten (Hinweis: Im Metadatenschema daIra 4.0 kann bei der Auswahl des Resource Type 'Datensatz' als Spezifizierung bei Resource Tpe Free 'Logdaten' eingetragen werden.).","4","Dataset","This also includes logfiles (Note: In the metadata schema daIra 4.0, when selecting the Resource Type 'Dataset', 'logfiles' can be entered as a specification for Resource Type Free)."
+"","Event","","5","Event",""
+"","Bild","","6","Image",""
+"","Interaktives Objekt","","7","Interactive Resource",""
+"","Modell","","8","Model",""
+"","Physisches Objekt","","9","Physical Object",""
+"","Service","","10","Service",""
+"","Software","","11","Software",""
+"","Audio","","12","Sound",""
+"","Text","","13","Text",""
+"","Workflow","","14","Workflow",""
+"","andere","","15","Other",""
+"","extra","","q2c","",""
