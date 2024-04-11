@@ -293,6 +293,31 @@
       ]
     },
     {
+      "id": "vf",
+      "title": [
+        {
+          "lang": "de",
+          "value": "Verfügbarkeit"
+        },
+        {
+          "lang": "en",
+          "value": "Availability"
+        }
+      ],
+      "filenameSource": "vf_Verfuegbarkeit.csv",
+      "filenameTarget": "vf_Verfuegbarkeit.ttl",
+      "description": [
+        {
+          "lang": "de",
+          "value": "\"\"Hierbei handelt es sich um ein kontrolliertes Vokabular zur Verfügbarkeit von Forschungsdaten des VerbundFDB.\n\nZitation: VerbundFDB: Verfügbarkeit Bildungsforschung. Version 1.0. Verfügbar unter https://w3id.org/iqb/v85/vf/. \n\nLizenz: CC0 1.0 Universell (CC0 1.0) / Public Domain Dedication (https://creativecommons.org/publicdomain/zero/1.0/deed.de)\"\""
+        },
+        {
+          "lang": "en",
+          "value": "\"\"This is a controlled vocabulary for availability for research data of the VerbundFDB.\n\nCitation: VerbundFDB: Availability Educational Research. Version 1.0. Retrieved from https://w3id.org/iqb/v85/vf/.\n\nLicense: CC0 1.0 Universell (CC0 1.0) / Public Domain Dedication (https://creativecommons.org/publicdomain/zero/1.0/deed.de)\"\""
+        }
+      ]
+    },
+    {
       "id": "zu",
       "title": [
         {
