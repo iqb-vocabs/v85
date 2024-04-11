@@ -3,13 +3,6 @@
 @prefix n0: <https://w3id.org/iqb/v85/vf/>. 
 @prefix n1: <https://w3id.org/iqb/v85/vf/>. 
 
-n1:1
-	 a skos:Concept;
-	skos:inScheme n0:;
-	skos:notation "";
-	skos:topConceptOf n0:;
-	skos:prefLabel "Verfügbar"@de,
-	"available"@en.
 n1:2
 	 a skos:Concept;
 	skos:inScheme n0:;
@@ -31,6 +24,13 @@ n1:4
 	skos:topConceptOf n0:;
 	skos:prefLabel "Nicht verfügbar"@de,
 	"not available"@en.
+n1:1
+	 a skos:Concept;
+	skos:inScheme n0:;
+	skos:notation "";
+	skos:topConceptOf n0:;
+	skos:prefLabel "Verfügbar"@de,
+	"available"@en.
 n0:
 	a skos:ConceptScheme;
 	dct:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de,
@@ -48,7 +48,7 @@ Citation: VerbundFDB: Availability Educational Research. Version 1.0. Retrieved 
 
 License: CC0 1.0 Universell (CC0 1.0) / Public Domain Dedication (https://creativecommons.org/publicdomain/zero/1.0/deed.de)"""@en;
 	skos:hasTopConcept
-		n1:1,
 		n1:2,
 		n1:3,
-		n1:4.
+		n1:4,
+		n1:1.
