@@ -159,7 +159,7 @@
       "description": [
         {
           "lang": "de",
-          "value": "\"\"Hierbei handelt es sich um ein kontrolliertes Vokabular der Erhebungsmethode, die zur Datenerfassung verwendet wird.\n\nZitation: VerbundFDB: Erhebungsmethode Bildungsforschung. Version 1.0. Verfügbar unter https://w3id.org/iqb/v85/em/.\n\nProvenienz: Es handelt sich hierbei um ein kontrolliertes Vokabular, welches im Bearbeitergremium des VerbundFDB, bestehend aus Marcus Eisentraut, Karoline Harzenetter, Nadeshda Jung, Claudia Neuendorf, Lisa Pegelow, Maike Porzelt, Jessica Trixa, Dirk Weisbrod, beschlossen wurde.\n\nStand: 11.05.2020\n\nLizenz: CC0 1.0 Universell (CC0 1.0) / Public Domain Dedication (https://creativecommons.org/publicdomain/zero/1.0/deed.de)\n\"\""
+          "value": "\"\"Hierbei handelt es sich um ein kontrolliertes Vokabular der Erhebungsmethode, die zur Datenerfassung verwendet wird.\n\nZitation: VerbundFDB: Erhebungsmethode Bildungsforschung. Version 1.0. Verfügbar unter https://w3id.org/iqb/v85/em/.\n\nProvenienz: Es handelt sich hierbei um ein kontrolliertes Vokabular, welches im Bearbeitergremium des VerbundFDB, bestehend aus Marcus Eisentraut, Karoline Harzenetter, Nadeshda Jung, Claudia Neuendorf, Lisa Pegelow, Maike Porzelt, Jessica Trixa, Dirk Weisbrod, beschlossen wurde.\n\nStand: 11.05.2020\n\nLizenz: CC0 1.0 Universell (CC0 1.0) / Public Domain Dedication (https://creativecommons.org/publicdomain/zero/1.0/deed.de)\n\nDas kontrollierte Vokabular ist als Spezifikation der Interviews im Erhebungsverfahren gedacht; kann also gezielt genutzt werden, um bei Bedarf das DDI-Vokublar zu erweitern. \"\""
         },
         {
           "lang": "en",
