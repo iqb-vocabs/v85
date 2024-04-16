@@ -93,7 +93,7 @@ n0:
 	"IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@en;
 	dct:title "VerbundFDB - Kontrolliertes Vokabular - Erhebungsmethode"@de,
 	"VerbundFDB - Controlled Vocabulary - Survey Method"@en;
-	dct:description """Hierbei handelt es sich um ein kontrolliertes Vokabular der Erhebungsmethode, die zur Datenerfassung verwendet wird.
+	dct:description """Hierbei handelt es sich um ein kontrolliertes Vokabular der Erhebungsmethode, die zur Datenerfassung verwendet wird. Das kontrollierte Vokabular ist als Spezifikation der Interviews im Erhebungsverfahren gedacht; kann also gezielt genutzt werden, um bei Bedarf das DDI-Vokublar zu erweitern.
 
 Zitation: VerbundFDB: Erhebungsmethode Bildungsforschung. Version 1.0. Verfügbar unter https://w3id.org/iqb/v85/em/.
 
@@ -102,9 +102,8 @@ Provenienz: Es handelt sich hierbei um ein kontrolliertes Vokabular, welches im 
 Stand: 11.05.2020
 
 Lizenz: CC0 1.0 Universell (CC0 1.0) / Public Domain Dedication (https://creativecommons.org/publicdomain/zero/1.0/deed.de)
-
-Das kontrollierte Vokabular ist als Spezifikation der Interviews im Erhebungsverfahren gedacht; kann also gezielt genutzt werden, um bei Bedarf das DDI-Vokublar zu erweitern. """@de,
-	"""This is a controlled vocabulary of the survey method used to obtain data.
+"""@de,
+	"""This is a controlled vocabulary of the survey method used to obtain data. The controlled vocabulary is intended as a specification of the interviews in the survey procedure (Mode of Collection); it can therefore be used specifically to expand the DDI vocabulary if necessary. 
 
 Citation: VerbundFDB: Survey Method Educational Research. Version 1.0. Retrieved from https://w3id.org/iqb/v85/em/.
 
