@@ -2,16 +2,15 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#>. 
 @prefix dc: <http://purl.org/dc/elements/1.1/>.
 @prefix n0: <https://w3id.org/iqb/v85/df/>. 
-@prefix n1: <https://w3id.org/iqb/v85/df/>. 
 
-n1:1
+n0:1
 	 a skos:Concept;
 	skos:inScheme n0:;
 	skos:notation "";
 	skos:topConceptOf n0:;
 	skos:prefLabel "Audiovisuell"@de,
 	"Audiovisual"@en.
-n1:2
+n0:2
 	 a skos:Concept;
 	skos:inScheme n0:;
 	skos:notation "";
@@ -20,14 +19,14 @@ n1:2
 	"Collection"@en; 
 	skos:definition "=Sammlung"@de,
 	"=Collection"@en.
-n1:3
+n0:3
 	 a skos:Concept;
 	skos:inScheme n0:;
 	skos:notation "";
 	skos:topConceptOf n0:;
 	skos:prefLabel "DataPaper"@de,
 	"Data Paper"@en.
-n1:4
+n0:4
 	 a skos:Concept;
 	skos:inScheme n0:;
 	skos:notation "";
@@ -36,77 +35,77 @@ n1:4
 	"Dataset"@en; 
 	skos:definition "Hierunter fallen auch Logdaten (Hinweis: Im Metadatenschema daIra 4.0 kann bei der Auswahl des Resource Type 'Datensatz' als Spezifizierung bei Resource Tpe Free 'Logdaten' eingetragen werden.)."@de,
 	"This also includes logfiles (Note: In the metadata schema daIra 4.0, when selecting the Resource Type 'Dataset', 'logfiles' can be entered as a specification for Resource Type Free)."@en.
-n1:5
+n0:5
 	 a skos:Concept;
 	skos:inScheme n0:;
 	skos:notation "";
 	skos:topConceptOf n0:;
 	skos:prefLabel "Event"@de,
 	"Event"@en.
-n1:6
+n0:6
 	 a skos:Concept;
 	skos:inScheme n0:;
 	skos:notation "";
 	skos:topConceptOf n0:;
 	skos:prefLabel "Bild"@de,
 	"Image"@en.
-n1:7
+n0:7
 	 a skos:Concept;
 	skos:inScheme n0:;
 	skos:notation "";
 	skos:topConceptOf n0:;
 	skos:prefLabel "Interaktives Objekt"@de,
 	"Interactive Resource"@en.
-n1:8
+n0:8
 	 a skos:Concept;
 	skos:inScheme n0:;
 	skos:notation "";
 	skos:topConceptOf n0:;
 	skos:prefLabel "Modell"@de,
 	"Model"@en.
-n1:9
+n0:9
 	 a skos:Concept;
 	skos:inScheme n0:;
 	skos:notation "";
 	skos:topConceptOf n0:;
 	skos:prefLabel "Physisches Objekt"@de,
 	"Physical Object"@en.
-n1:10
+n0:10
 	 a skos:Concept;
 	skos:inScheme n0:;
 	skos:notation "";
 	skos:topConceptOf n0:;
 	skos:prefLabel "Service"@de,
 	"Service"@en.
-n1:11
+n0:11
 	 a skos:Concept;
 	skos:inScheme n0:;
 	skos:notation "";
 	skos:topConceptOf n0:;
 	skos:prefLabel "Software"@de,
 	"Software"@en.
-n1:12
+n0:12
 	 a skos:Concept;
 	skos:inScheme n0:;
 	skos:notation "";
 	skos:topConceptOf n0:;
 	skos:prefLabel "Audio"@de,
 	"Sound"@en.
-n1:13
+n0:13
 	 a skos:Concept;
 	skos:inScheme n0:;
 	skos:notation "";
 	skos:topConceptOf n0:;
 	skos:prefLabel "Text"@de,
 	"Text"@en.
-n1:14
+n0:14
 	 a skos:Concept;
 	skos:inScheme n0:;
 	skos:notation "";
 	skos:topConceptOf n0:;
 	skos:prefLabel "Workflow"@de,
 	"Workflow"@en.
-n1:15
+n0:15
 	 a skos:Concept;
 	skos:inScheme n0:;
 	skos:notation "";
@@ -134,18 +133,18 @@ Provenance: This is a controlled vocabulary developed by VerbundFDB- on basis of
 
 License: CC0 1.0 Universell (CC0 1.0) / Public Domain Dedication (https://creativecommons.org/publicdomain/zero/1.0/deed.de) """@en;
 	skos:hasTopConcept
-		n1:1,
-		n1:2,
-		n1:3,
-		n1:4,
-		n1:5,
-		n1:6,
-		n1:7,
-		n1:8,
-		n1:9,
-		n1:10,
-		n1:11,
-		n1:12,
-		n1:13,
-		n1:14,
-		n1:15.
+		n0:1,
+		n0:2,
+		n0:3,
+		n0:4,
+		n0:5,
+		n0:6,
+		n0:7,
+		n0:8,
+		n0:9,
+		n0:10,
+		n0:11,
+		n0:12,
+		n0:13,
+		n0:14,
+		n0:15.

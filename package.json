@@ -1,6 +1,6 @@
 {
   "name": "iqb-vocabs_v85",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "description": "FDZ VerbundFDB Kontrolliertes Vokabular",
   "scripts": {
     "run_id": "addidcsv csv",
@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/iqb-vocabs/v85#readme",
   "devDependencies": {
-    "@iqb/csv2ttl": "^0.7.8"
+    "@iqb/csv2ttl": "^0.8.3"
   }
 }
