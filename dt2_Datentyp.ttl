@@ -29,19 +29,26 @@ n0:41
 	skos:inScheme n0:;
 	skos:notation "4.1";
 	skos:broader n0:4;
-	skos:prefLabel "Kompetenztest oder Wissenstest"@de,
-	"Competency Test or Knowlegde Test"@en.
+	skos:prefLabel "Fragebogenskalen"@de,
+	"Questionnaire Scales"@en.
 n0:42
 	 a skos:Concept;
 	skos:inScheme n0:;
 	skos:notation "4.2";
 	skos:broader n0:4;
-	skos:prefLabel "Ratingmanual"@de,
-	"Rating Manual"@en.
+	skos:prefLabel "Kompetenztest oder Wissenstest"@de,
+	"Competency Test or Knowledge Test"@en.
 n0:43
 	 a skos:Concept;
 	skos:inScheme n0:;
 	skos:notation "4.3";
+	skos:broader n0:4;
+	skos:prefLabel "Ratingmanual"@de,
+	"Rating Manual"@en.
+n0:44
+	 a skos:Concept;
+	skos:inScheme n0:;
+	skos:notation "4.4";
 	skos:broader n0:4;
 	skos:prefLabel "Lerntagebuch"@de,
 	"Learning Diary"@en.
@@ -50,12 +57,13 @@ n0:4
 	skos:inScheme n0:;
 	skos:notation "4";
 	skos:topConceptOf n0:;
-	skos:prefLabel "Fragebogenskalen"@de,
-	"Questionnaire Scales"@en;
+	skos:prefLabel "Forschungsinstrument"@de,
+	"Research Tool"@en;
 	skos:narrower 
 		n0:41,
 		n0:42,
-		n0:43.
+		n0:43,
+		n0:44.
 n0:99
 	 a skos:Concept;
 	skos:inScheme n0:;
@@ -73,7 +81,7 @@ n0:
 
 Zitation: VerbundFDB: Datentyp Bildungsforschung. Version 2.0. Retrieved from https://w3id.org/iqb/v85/dt2/. 
 
-Provenienz: Es handelt sich hierbei um ein kontrolliertes Vokabular, welches von Thomas Schwager für den VerbundFDB entwickelt wurde und in der AG DokAr des VerbundFDB um Terme des Forschungsinstrumentes ergänzt wurden.
+Provenienz: Es handelt sich hierbei um ein kontrolliertes Vokabular, welches von Thomas Schwager für den VerbundFDB entwickelt wurde und in der AG DokAr des VerbundFDB um Terme des Forschungsinstrumentes ergänzt wurde.
 
  Stand: 25.09.2025 Quelle: Überarbeitete Version des Kontrollierten Vokabulars VerbundFDB: Datentyp Bildungsforschung. Version 1.0. Retrieved from https://w3id.org/iqb/v85/dt/ 
 
