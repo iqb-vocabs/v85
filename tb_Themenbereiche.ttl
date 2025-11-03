@@ -115,6 +115,7 @@ n0:
 	"IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@en;
 	dct:title "VerbundFDB - Kontrolliertes Vokabular - Themenbereiche"@de,
 	"VerbundFDB - Controlled Vocabulary - Themes"@en;
+	dct:license <https://creativecommons.org/publicdomain/zero/1.0/deed.de>;
 	dct:description """Hierbei handelt es sich um ein kontrolliertes Vokabular zu Themenbereichen von Forschungsdaten des VerbundFDB.
 
 Zitation: VerbundFDB: Themenbereiche Bildungsforschung. Version 1.0. Verfügbar unter https://w3id.org/iqb/v85/tb/. 

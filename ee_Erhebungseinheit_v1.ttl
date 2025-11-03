@@ -179,6 +179,7 @@ n0:
 	"IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@en;
 	dct:title "VerbundFDB - Kontrolliertes Vokabular - Erhebungseinheit"@de,
 	"VerbundFDB - Controlled Vocabulary - Survey Unit"@en;
+	dct:license <https://creativecommons.org/publicdomain/zero/1.0/deed.de>;
 	dct:description """Hierbei handelt es sich um ein kontrolliertes Vokabular zu methodischen Informationen zur Studie und bildet die Einheit, die die enthaltenen Informationen bereitgestellt hat, ab.
 
 Zitation: VerbundFDB: Erhebungseinheit Bildungsforschung. Version 2.0. Verfügbar unter https://w3id.org/iqb/v85/ee/.

@@ -63,6 +63,7 @@ n0:
 	"IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@en;
 	dct:title "VerbundFDB - Kontrolliertes Vokabular - Forschungsdesign"@de,
 	"VerbundFDB - Controlled Vocabulary - Research Design"@en;
+	dct:license <https://creativecommons.org/publicdomain/zero/1.0/deed.de>;
 	dct:description """Hierbei handelt es sich um ein kontrolliertes Vokabular, welches beschreibt, wie die empirische Fragestellung untersucht wurde.
 
 Zitation: VerbundFDB: Forschungsdesign Bildungsforschung. Version 1.0. Verfügbar unter https://w3id.org/iqb/v85/fd/.

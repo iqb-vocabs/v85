@@ -706,6 +706,7 @@ n0:
 	"IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@en;
 	dct:title "VerbundFDB - Kontrolliertes Vokabular - Erhebungsverfahren v2"@de,
 	"VerbundFDB - Controlled Vocabulary - Mode of Collection v2"@en;
+	dct:license <https://creativecommons.org/publicdomain/zero/1.0/deed.de>;
 	dct:description """Hierbei handelt es sich um ein kontrolliertes Vokabular zur Beschreibung der Datenerhebung, zur Beschreibung der Methode, mit der die Untersuchung durchgeführt wurde, also zur Prozedur, Technik oder Art der Erhebung, die verwendet wurde, um Daten zu bekommen.
 
 Zitation: VerbundFDB: Erhebungsverfahren Bildungsforschung. Version 2.0. Verfügbar unter https://w3id.org/iqb/v85/v2/. 

@@ -63,6 +63,7 @@ n0:
 	"IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@en;
 	dct:title "VerbundFDB - Kontrolliertes Vokabular - Zugriff"@de,
 	"VerbundFDB - Controlled Vocabulary - Access"@en;
+	dct:license <https://creativecommons.org/publicdomain/zero/1.0/deed.de>;
 	dct:description """Hierbei handelt es sich um ein kontrolliertes Vokabular zu den Möglichkeiten und Bedingungen des Datenzugangs, es bildet die Zugangsbedingungen und Zugriffswege in den FDZ des VerbundFDB auf Forschungsdaten ab.
 
 Zitation: VerbundFDB: Zugriff Bildungsforschung. Version 1.0. Verfügbar unter https://w3id.org/iqb/v85/zu/. 

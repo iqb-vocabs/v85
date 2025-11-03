@@ -37,6 +37,7 @@ n0:
 	"IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@en;
 	dct:title "VerbundFDB - Kontrolliertes Vokabular - Datentyp v1"@de,
 	"VerbundFDB - Controlled Vocabulary - Resource Type v1"@en;
+	dct:license <https://creativecommons.org/publicdomain/zero/1.0/deed.de>;
 	dct:description """Hierbei handelt es sich um ein kontrolliertes Vokabular zu Informationen zur Studie und beschreibt die Datenart.
 
 Zitation: VerbundFDB: Datentyp Bildungsforschung. Version 1.0. Retrieved from https://w3id.org/iqb/v85/dt/. 

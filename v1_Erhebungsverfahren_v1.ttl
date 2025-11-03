@@ -396,6 +396,7 @@ n0:
 	"IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@en;
 	dct:title "VerbundFDB - Kontrolliertes Vokabular - Erhebungsverfahren v1"@de,
 	"VerbundFDB - Controlled Vocabulary - Mode of Collection v1"@en;
+	dct:license <https://creativecommons.org/publicdomain/zero/1.0/deed.de>;
 	dct:description """Hierbei handelt es sich um ein kontrolliertes Vokabular zur Beschreibung der Datenerhebung, zur Beschreibung der Methode, mit der die Untersuchung durchgeführt wurde, also zur Prozedur, Technik oder Art der Erhebung, die verwendet wurde, um Daten zu bekommen.
 
 Zitation: VerbundFDB: Erhebungsverfahren Bildungsforschung. Version 1.0. Verfügbar unter https://w3id.org/iqb/v85/v1/. Provenienz: basierend auf DDI Alliance (2016) DDI Controlled Vocabulary for Mode Of Collection. Retrieved from http://www.ddialliance.org/Specification/DDI-CV/ModeOfCollection_3.0.html Deutsche Übersetzung: Baum, Katrin; Post, Marlies and Jedinger, Alexander (2015). GESIS. Kontrolliertes Vokabular VerbundFDB: Erhebungsverfahren Implementierte überarbeitete Version in Anpassung an die Anforderungen des VerbundFDB. Beschlossen am 13.12.2016 im Bearbeitergremium VerbundFDB, bestehend aus Marcus Eisentraut, Karoline Harzenetter, Claudia Neuendorf, Lisa Pegelow, Maike Porzelt, Thomas Schwager
