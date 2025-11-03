@@ -44,10 +44,10 @@ n0:5
 	skos:inScheme n0:;
 	skos:notation "";
 	skos:topConceptOf n0:;
-	skos:prefLabel "Secondary Analysis"@de,
-	"Sekundäranalyse"@en; 
-	skos:definition "Secondary analysis is a research strategy which makes use of pre-existing quantitative data or pre-existing qualitative research data for the purposes of investigating new questions or verifying previous studies. (Janet Heaton 2004, Reworking Qualitative Data S. 16)"@de,
-	"Die Sekundäranalyse ist eine Forschungsstrategie, die bereits existierende quantitative oder qualitative Daten nutzt, um neue Fragestellungen zu untersuchen oder vorherige Studien zu reanalysieren/ zu überprüfen. (nach Heaton)"@en.
+	skos:prefLabel "Sekundäranalyse"@de,
+	"Secondary Analysis"@en; 
+	skos:definition "Die Sekundäranalyse ist eine Forschungsstrategie, die bereits existierende quantitative oder qualitative Daten nutzt, um neue Fragestellungen zu untersuchen oder vorherige Studien zu reanalysieren/ zu überprüfen. (nach Heaton)"@de,
+	"Secondary analysis is a research strategy which makes use of pre-existing quantitative data or pre-existing qualitative research data for the purposes of investigating new questions or verifying previous studies. (Janet Heaton 2004, Reworking Qualitative Data S. 16)"@en.
 n0:40
 	 a skos:Concept;
 	skos:inScheme n0:;
