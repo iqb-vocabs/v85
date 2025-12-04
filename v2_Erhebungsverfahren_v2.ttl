@@ -724,6 +724,7 @@ Provenance: Based on DDI Alliance (2016) DDI Controlled Vocabulary for Mode Of C
  As of: 11.05.2020 Source: Revised version of GESIS DAS Controlled Vocabulary V. 2.0: Collection Mode Translation of the DDI Controlled Vocabulary for Mode Of Collection Date Original Version Translation / Editing 16.11.2015 V. 2.0 Katrin Baum, Marlies Post, Dr. Alexander Jedinger 10.06.2015 V. 2.0 Dr. Alexander Jedinger 08.04.2013 V. 1.0 Monika Linne
 
 License: CC0 1.0 Universell (CC0 1.0) / Public Domain Dedication (https://creativecommons.org/publicdomain/zero/1.0/deed.de)"""@en;
+	dct:license <https://creativecommons.org/publicdomain/zero/1.0/deed.de>;
 	skos:hasTopConcept
 		n0:1,
 		n0:9,

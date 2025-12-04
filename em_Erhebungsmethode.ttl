@@ -112,6 +112,7 @@ Provenance: This is a controlled vocabulary developed and used by the VerbundFDB
 As of: 11.05.2020
 
 License: CC0 1.0 Universell (CC0 1.0) / Public Domain Dedication (https://creativecommons.org/publicdomain/zero/1.0/deed.de)"""@en;
+	dct:license <https://creativecommons.org/publicdomain/zero/1.0/deed.de>;
 	skos:hasTopConcept
 		n0:1,
 		n0:2,

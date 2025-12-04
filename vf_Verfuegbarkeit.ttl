@@ -47,6 +47,7 @@ Lizenz: CC0 1.0 Universell (CC0 1.0) / Public Domain Dedication (https://creativ
 Citation: VerbundFDB: Availability Educational Research. Version 1.0. Retrieved from https://w3id.org/iqb/v85/vf/.
 
 License: CC0 1.0 Universell (CC0 1.0) / Public Domain Dedication (https://creativecommons.org/publicdomain/zero/1.0/deed.de)"""@en;
+	dct:license <https://creativecommons.org/publicdomain/zero/1.0/deed.de>;
 	skos:hasTopConcept
 		n0:2,
 		n0:3,

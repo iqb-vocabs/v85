@@ -132,6 +132,7 @@ Citation: VerbundFDB: Data Format Educational Research. Version 1.0. Retrieved f
 Provenance: This is a controlled vocabulary developed by VerbundFDB- on basis of da|ra 4.0 (Resource Type).
 
 License: CC0 1.0 Universell (CC0 1.0) / Public Domain Dedication (https://creativecommons.org/publicdomain/zero/1.0/deed.de) """@en;
+	dct:license <https://creativecommons.org/publicdomain/zero/1.0/deed.de>;
 	skos:hasTopConcept
 		n0:1,
 		n0:2,

@@ -83,6 +83,7 @@ as of: 13.12.2016 (Editing: Thomas Schwager Source: GESIS Controlled Vocabularie
 
 License: CC0 1.0 Universell (CC0 1.0) / Public Domain Dedication (https://creativecommons.org/publicdomain/zero/1.0/deed.de)
 """@en;
+	dct:license <https://creativecommons.org/publicdomain/zero/1.0/deed.de>;
 	skos:hasTopConcept
 		n0:3,
 		n0:1,

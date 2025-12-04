@@ -95,6 +95,7 @@ Citation: VerbundFDB: Resource Type Educational Research. Version 2.0. Retrieved
  As of: 25.09.2025 Source: Revised version of the Controlled Vocabulary VerbundFDB: Data Resource Educational Research. Version 1.0. Retrieved from https://w3id.org/iqb/v85/dt/.
 
 License: CC0 1.0 Universell (CC0 1.0) / Public Domain Dedication (https://creativecommons.org/publicdomain/zero/1.0/deed.de)"""@en;
+	dct:license <https://creativecommons.org/publicdomain/zero/1.0/deed.de>;
 	skos:hasTopConcept
 		n0:1,
 		n0:2,
